@@ -9,10 +9,6 @@
       "name": "🚀码点影线"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
-      "name": "🚀讴歌线路"
-    },
-    {
       "url": "http://tvbox.王二小放牛娃.top",
       "name": "🚀王二小线"
     },
@@ -35,6 +31,10 @@
     {
       "name": "🚀3真心",
       "url": "https://tvbox.catvod.com/FongMi.json"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🚀讴歌线路"
     }
   ]
 }
