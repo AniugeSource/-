@@ -1,6 +1,6 @@
 {
   "urls": [
-    {"name":"天微",
+    {"name":"🚀天微",
     "url":"https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json"
     },
     {
@@ -10,10 +10,6 @@
     {
       "url": "http://mdxgh.top:9999/mdxkj.json",
       "name": "🚀码点影线"
-    },
-    {
-      "url": "http://tvbox.王二小放牛娃.top",
-      "name": "🚀王二小线"
     },
     {
       "url": "https://6492.kstore.space/xnf/xnf.json",
@@ -39,8 +35,12 @@
      "url": "https://raw.liucn.cc/box/m.json"
     },
     {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀王二小线(低配机勿点)"
+    },
+    {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
-      "name": "🚀讴歌线路"
+      "name": "🚀讴歌线路(低配机勿点)"
     }
   ]
 }
