@@ -46,7 +46,7 @@
      "name": "小米","url":"https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
     },
    {
-      "name": "🚀天堂采集",
+      "name": "🚀天堂采集(低配机勿点)",
       "url": "https://raw.giteeusercontent.com/zwssina/yunduanyuan/raw/master/ceshi.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjZXNoaS5qc29uIiwicGlkIjo5NjQ0MDcwLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTciLCJycCI6InJlcG9zL2MwL2NjL2MwY2MwMTM4ZTExNzk2MjIwZWM4MWNlMzRiZTAyMjg1NWI2MzUzZTdlMDI0ZWNkY2M0ZWNmZDQzMDQ2ZWYwNTMuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODQ0MjQwMDB9&signature=fItIMxRvOiiFsPU-_HQXB3sTgk72DnO7dRgmDpyoIno"
     },
     {
