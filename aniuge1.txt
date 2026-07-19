@@ -49,9 +49,6 @@
       "name": "🚀天堂采集",
       "url": "https://raw.giteeusercontent.com/zwssina/yunduanyuan/raw/master/ceshi.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjZXNoaS5qc29uIiwicGlkIjo5NjQ0MDcwLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTciLCJycCI6InJlcG9zL2MwL2NjL2MwY2MwMTM4ZTExNzk2MjIwZWM4MWNlMzRiZTAyMjg1NWI2MzUzZTdlMDI0ZWNkY2M0ZWNmZDQzMDQ2ZWYwNTMuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODQ0MjQwMDB9&signature=fItIMxRvOiiFsPU-_HQXB3sTgk72DnO7dRgmDpyoIno"
     },
-   {
-     "name": "瓜子采集","url":"https://raw.giteeusercontent.com/zwssina/yunduanyuan/raw/master/mian.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJtaWFuLmpzb24iLCJwaWQiOjk2NDQwNzAsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxNyIsInJwIjoicmVwb3MvYzAvY2MvYzBjYzAxMzhlMTE3OTYyMjBlYzgxY2UzNGJlMDIyODU1YjYzNTNlN2UwMjRlY2RjYzRlY2ZkNDMwNDZlZjA1My5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc4NDQyNDYwMH0&signature=q0hroD5gbn6DZkB8YCJRwahgqBZ89SJcmfNcJhADe9o"
-    },
     {
     "name": "饭太硬(低配机勿点)","url":"http://www.饭太硬.cc/tv"
     },
