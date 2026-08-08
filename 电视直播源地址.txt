@@ -719,6 +719,24 @@ TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 TVB 星河,https://cdn6.cc.cd/163189/tvbxh
 TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
+华丽翡翠,http://rihou.cc:555/tv/[Pd]无线华丽
+明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
+TVBS,http://rihou.cc:555/tv/[Hv]tvbS闽南
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+中天新闻,http://rihou.cc:555/tv/[Pd]中天新闻
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
@@ -841,6 +859,36 @@ CHU,https://cdn6.cc.cd/163189/chu
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 广州南国,http://rihou.cc:555/tv/[Cx]广州南国
+HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+NOW新闻,http://rihou.cc:555/tv/[Pd]Now新闻
+HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
+TVBDRAMA,http://rihou.cc:555/tv/[Pd]无线翡剧
+娱乐新闻,http://rihou.cc:555/tv/[Pd]无线娱乐|
+TVB1,http://rihou.cc:555/tv/[Pd]无线娱乐
+TVB 星河,http://rihou.cc:555/tv/[Pd]无线星河
+千禧经典,http://rihou.cc:555/tv/[Pd]无线经典
+TVB功夫武侠,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
+CHU,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8,http://rihou.cc:555/tv/[Pd]CH8综合
+Astro AOD,http://rihou.cc:555/tv/[Pd]astroaod
+广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
+广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
+广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
+HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新闻,http://rihou.cc:555/tv/[Hk]Now新闻
+NOW新闻,http://rihou.cc:555/tv/[Mt]Now新闻
+
 美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
 東森中國台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156393
 東森戲劇,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156395
@@ -948,7 +996,6 @@ momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 老广的味道-美食之旅,https://www.goodiptv.club/yy/1354932375
 舌尖上的中国第一季,https://www.goodiptv.club/yy/1354930952
 舌尖上的中国第2季,https://www.goodiptv.club/yy/1354930943
-中国味道 第4季-美食纪录片,https://www.goodiptv.club/yy/1382736845
 单挑荒野第一季,https://www.goodiptv.club/yy/1354933535
 荒野求生其他,https://www.goodiptv.club/huya/593667
 老广的味道-美食之旅,https://www.goodiptv.club/yy/1354932375
@@ -1352,24 +1399,10 @@ My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
 天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
-东森电影,http://www.kaniptv.cn/uadl.php?etoken=o6kSdHfJgOWIf4msSV0gr9Gq92YfyqY9BfhqHTf85NrnbUKDrvqAfy9ioXTUeWdazfAsYsHUEAdnLdMF2RzImfxsA31t7PqYX%2BUMyr9WRvEkVkphwQM%2BWSTnzjPkL7QHsAdeM9FaxdntlO1X9mmZcpqtK6CrauNeyXhnYG5UA8imPobbWRSgImQp8Hxcxwvu8b2vPtV4zzQNZ%2FXntau425hRv6jLdlr%2B3h94rLI66GxJPTW8P6A1B7Fh7MhcK%2Fdkd9Ri6w7fWNW51kucLq0N%2F6Y34irSU0O%2BMprIg39qTdzQJUMnqxa7bkoGRdMMZ0lsVwFtUOA1SgQl54Xgu2GlSQ%3D%3D
-纬來电影,http://www.kaniptv.cn/uadl.php?etoken=wzeJEa8vKDsqdMPpSIoJqFPqa%2B%2FFT6I2GMWQjlBlTv%2FdGYt6lWwc6f3vga%2FSyciTwKdTYUYzsnU7hMnVCOHXw9WR9vQaiCN74rgSzYSJD7CisBxq7BshF4YsrSN06w3kd89e3m4mtdtQ%2FuFL3fI3M2Pi7jwBpud7JqVs5FENcVOwnaYsDt%2FzaFVLvT%2Ft%2FagUfa8QAvYgTmwVkmlVUJJyEKObaAuwgLmXu%2Fe9YuaDDQy2%2FrP%2FWmAmId%2B2vFXgQzio%2FvAglL%2Bq69nhVAbWai64wU22YF44dOzyu9aV87RhD6f2RgRAcIgy%2F8erT0mra5A7I6h1RaTo3dqlu8k0nqNK%2Bw%3D%3D
-龙华电影,http://www.kaniptv.cn/uadl.php?etoken=rBXMBl1583nnhddxV5EYPwD8heFFv8xCpAPfXn1wfsVLAdsuCskj6ueCowx1k9DUsyUfFSkMw8JjNcCtkiP4PZRxqyR1%2BAiU9m8W7eziLDziOx9A%2FImDNDJOMtiH2FUfftivxG7GMI6C2xwfbktIRQs7mVnw%2FLy3fY7WenBUODQqkUz4IQvdxiXB9JEV7kziQFTUHmJZtsU179JUB%2BbbB7a8n35xSit7sRY8%2ByHJv22J2WBnwFznjgCEZcFXvmppId3HvAuK1kofxCJX2gPPlTjhu6SfeEMnI%2Fo%2FdGzA%2F5hJvGCWIKwviGzPyCz3GKX8OYGESrrqQg%2BQUKpGp%2BNq5g%3D%3D
-好莱坞电影,http://www.kaniptv.cn/uadl.php?etoken=RdDif3qtZTppFQXYx%2B2TCPLVwGzVR2oFsB1NLunRCtvsVmC35qwN7rKljFRcXChE%2BXI43L%2F5%2FB909n9eLXrfYZFtv%2B9yQIbtV3B06n%2FqZoR2eIsOq9V0uXd49CWOcOa3nBcpewk2I7QTUM8wdn1OXYxe85jy%2BZrf5NMxT6x6HPrwwoCZWTYRy2k%2BpZWtXmXvkMHAFOhxXqmGTpUvdSJYFjhqGHRkPQ0AOedhZ9o8c3KbSLEbewUm%2FwO2Gdj1WI%2BFyTHRjMPFV59hYHb14rYglv6upJJw%2FNdyE9KktrHFMRekHSvAbS3Cwz7vJx1wmiYPol3zpHJy%2FDTuT%2BCqXvNMCg%3D%3D
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919463
 天映频道,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919461
-天映经典,http://www.kaniptv.cn/uadl.php?etoken=lRPDMvWql5Xl0j%2B%2BA0%2B4YqwcaSQoNe%2BjD6ktzVgfe6%2F6nOrd2SfjfZC%2Byyk%2FE8vBAsG5l0MM1h%2B0mchSe1%2FB4sZUbiMHDTgfJhPkHcIaE3LtM%2FCzkhfKoYhg54Dquw3a%2FRXdC0ERX49t4KZLWgcNydtFQ9kFY%2FxEJ8aNhYm20ABbFxyzmrX3p5YqNmBwlZSkWF8epGRaNw%2BUAx0Tk%2ByDw5QHcfHBb8ZsTZm6FRQBzShOjGrWSI6WBsL75oKoWICeEpTLzQeAxmEo8UNWv0GnQpIzCZfmM5IE9BS7BChUwJ7onXOqjamNrypx5MerQElH%2FINrjtHyVlwSsrmgz0TvAw%3D%3D
-美亚电影,http://www.kaniptv.cn/uadl.php?etoken=UourVB3piNKfDxM5vHTE2DaX%2BotaOI6yvwJlQJqa7b09Tbl%2BEQcpsv6gTq5dUFosjFn6fFwDcuiKI7x0EIDTQLFzlWcVj%2BQXjB9T6%2Bnc6B%2FRk%2FRxyDDlICOBffzotkhG8yTVpOKOdJYNhF%2F2IHeSuQ%2FV6%2FpnJHeXArgY70sn3Tm3By6dLstRmebJxPRH5m7aEvnK0OOE74F5H2Oe1YB5kCKyUaJ5CRe690P74R3V6Lfl4U%2FzmpRxa0zBwhiPgea0ZISeFNyEhLO%2BqbsS535EJn4I%2FBB3o5z2e4Pl%2FrkhDaTy%2BB1RoLcBPK5ehLvMHrxCk6CKs6niN4gD0hwfYLcKzg%3D%3D
-POPC,http://www.kaniptv.cn/uadl.php?etoken=XDkyXVm2bhfZt8OGtGYOfJSNMaWAo%2FWXHC3S2rLBIuA%2BMJ2bWjQph1TmZDIBHv%2BL3cdz49lZMJZXls9g1CzJp%2Fi9rTWPw3ClTNLG0eAEvkmLRMEb5%2BtPo6lNR7j1DaWryFgmyKRmDcauEvUeMb4p%2B%2BVz%2FYPp2uVT1aOtUTYQynHxh9zxf8zeco2wGX%2B4DbLaPtuZw3qDI43dEMNfx1o3rXCxVV8tSWsQ7WvHiDVExvuHtlPD49kcX9Oy0U6Mr3bUxIDI9pXEMQJv%2BauBVzDys4p4LP7%2BLAIeCaEPl3bhIJiGQG2PocpEJHIdvEtDPtrqog0XX%2BWQbEiV4EQsQ9QPoA%3D%3D
-中国电影,http://www.kaniptv.cn/uadl.php?etoken=hZO1zHkM%2BQdy1wtQSy1%2BGtzEkE6%2BRknLKEMcaMzX4G2m4PuLOcynN%2FzL5rQVdJC5JSQ6YYu2SCvd7UVbWwCEXGijpyi19BKcwCuXP2zFnngkhlR6DngeuisM%2F6S%2FVHi%2BJwfCLqyRBz6rP1WF7oAmVP38a4ZvmxYY1DxpxNIzKef6mUoMkEnm6Bc7M2Ng37LsKaf5kGN4xOhEKo3VCCeRLEdEa9haT6s3xCZsJIa9qNUxNvz1KWzUb64awSBMMrhfZhUX%2BpNT8wtKcWZr2ceTERH6BcgjQdXTUxQTlvCCi6mPG3wWBFRwLgR61IFAYN63HSqrmJyg080SS5osIsVsQg%3D%3D
-POPC,http://139.159.221.112/jr.php?id=9a123886f108a829a2d307bcee9d2960&l=0
-Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=0
-Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=1
-Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=2
-Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=0
-Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=1
-Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=2
-Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d
+Now星影,http://rihou.cc:555/tv/[Pd]Now星影
+Now爆谷,http://rihou.cc:555/tv/[Pd]Now爆谷
 DJ舞曲,#genre#
 开场低音串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479_258.mp4
 经典Dj嗨歌01,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c0531dbca1064f037001992f48d0cd_258.mp4
