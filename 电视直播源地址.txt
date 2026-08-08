@@ -665,11 +665,6 @@ ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
 amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
-大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
-人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
-TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 港台测试,#genre#
 環宇台灣,http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
 華視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
@@ -700,7 +695,8 @@ Astro QJ,https://cdn3.indevs.in/stream/live/qj/
 Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
-华丽翡翠1,https://cdn3.indevs.in/stream/live/hlt/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+华丽翡翠,https://cdn3.indevs.in/stream/live/hlt/
 华丽翡翠,https://cdn6.cc.cd/163189/jade
 华丽翡翠台(新加坡),https://cdn3.indevs.in/stream/live/jade/
 翡翠台,https://cdn6.cc.cd/163189/hlfct
@@ -711,17 +707,11 @@ TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
-翡翠台,http://139.159.221.112/jr.php?id=2bc1e037cf7dd25ffd1cf86731fdb774&l=0
-华丽翡翠台(马来西亚),http://139.159.221.112/jr.php?id=8af80a34673113c829dc945ed4241567afb3ddce413056391a3616753be5ae33&l=0
-华丽翡翠2,http://139.159.221.112/jr.php?id=8af80a34673113c829dc945ed4241567b078dc086c58c2a52105eec4ad7e1b10&l=0
-华丽翡翠台(澳大利亚),http://139.159.221.112/jr.php?id=29d0d221342c64dc167270a43c8a6493760f9809cd00201aa3d236b023b4fc21&l=0
-华丽翡翠(北美),http://139.159.221.112/jr.php?id=6a307d5ddde29e59d0c479f4520a349a5162c2d9dd753e3056de6d13c3593465&l=0
-明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 TVB 星河,https://cdn6.cc.cd/163189/tvbxh
 TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
-翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
-华丽翡翠,http://rihou.cc:555/tv/[Pd]无线华丽
+华丽翡翠(北美),http://rihou.cc:555/tv/[Pd]无线翡翠
+翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
@@ -772,17 +762,6 @@ YOYO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 TVB Plus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=0
-无线新闻,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&l=0
-无线新闻,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&l=1
-无线新闻,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&
-明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=0id=dc5b9e01613a8b31868245a52003571a&l=4
-TVB生活台,http://139.159.221.112/jr.php?id=cfce93d1e11c1bff93c18dab3f29759b&l=0
-TVB 星河,http://139.159.221.112/jr.php?id=b93d84053bc86924a4a4e7c0f485c131&l=0
-TVB 星河,http://139.159.221.112/jr.php?id=b93d84053bc86924a4a4e7c0f485c131&l=1
-TVB1,http://139.159.221.112/jr.php?id=448b74cdd8bd69d464f791181fc3ef1e&l=0
-明珠剧集台,http://139.159.221.112/jr.php?id=edcad445f360911d31e2f2d4776b6ea655f2f1acbf50e809058277a2367e0a17&l=0
-TVBJ1,http://139.159.221.112/jr.php?id=d9c75d64d4b6ac534b747f9a99735c3d&l=0
-TVBDRAMA,http://139.159.221.112/jr.php?id=1ca1e1ed74fbc811eae584cd00485eace3ab026f0c6113e58285fcccfaf0ea9f&l=0
 MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
@@ -861,14 +840,14 @@ CHU,https://cdn6.cc.cd/163189/chu
 广州南国,http://rihou.cc:555/tv/[Cx]广州南国
 HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-NOW新闻,http://rihou.cc:555/tv/[Pd]Now新闻
+NOW新闻台,http://rihou.cc:555/tv/[Pd]Now新闻
 HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
 TVBDRAMA,http://rihou.cc:555/tv/[Pd]无线翡剧
 娱乐新闻,http://rihou.cc:555/tv/[Pd]无线娱乐|
 TVB1,http://rihou.cc:555/tv/[Pd]无线娱乐
 TVB 星河,http://rihou.cc:555/tv/[Pd]无线星河
 千禧经典,http://rihou.cc:555/tv/[Pd]无线经典
-TVB功夫武侠,http://rihou.cc:555/tv/[Pd]无线功夫
+TVB亚洲武侠,http://rihou.cc:555/tv/[Pd]无线功夫
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
 澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
@@ -885,10 +864,9 @@ Astro AOD,http://rihou.cc:555/tv/[Pd]astroaod
 广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
 HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-NOW新闻,http://rihou.cc:555/tv/[Hk]Now新闻
-NOW新闻,http://rihou.cc:555/tv/[Mt]Now新闻
-
+NOW新闻台,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新闻台,http://rihou.cc:555/tv/[Hk]Now新闻
+NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
 東森中國台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156393
 東森戲劇,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156395
