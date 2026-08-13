@@ -692,6 +692,7 @@ TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
@@ -916,15 +917,14 @@ momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 東森財經,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156396
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 财富天下,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040380/main.m3u8?stbid=
-东方财经,http://182.135.66.163:18888/rtp/239.94.1.59:5140
-东方财经,http://182.135.66.163:18888/rtp/239.94.2.236:5140
-东方财经,http://218.94.90.74:57585/rtp/239.49.0.95:8000
+东方财经,http://182.135.66.163:1888/rtp/239.94.2.236:5140
 东方财经,http://121.230.179.192:8802/rtp/239.49.0.95:8000
 东方财经,http://182.135.66.163:1888/rtp/239.94.1.59:5140
-东方财经,http://182.135.66.163:1888/rtp/239.94.2.236:5140
-第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988
-第一财经,http://121.230.179.192:8802/rtp/239.49.8.37:8000
-第一财经,http://218.94.90.74:57585/rtp/239.49.8.37:8000
+第一财经,http://wfenf.x3322.net:7788/608780988
+第一财经,http://www.ikerobot.com:1234/608780988
+第一财经,http://p.08top.top:8088/608780988
+第一财经,http://47.104.178.59:3566/608780988
+第一财经,http://111.228.4.117:6789/migu720p.php?id=608780988
 小品剧集电影,#genre#
 爆笑小品大合集,https://www.goodiptv.club/yy/1382736821
 贾玲春晚小品,https://www.goodiptv.club/yy/1382736720
