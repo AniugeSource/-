@@ -724,8 +724,6 @@ POPC,http://49.232.143.177:80/pyxg/hmy.php?id=POPC&key=xx***x
 港台粤澳财经,#genre#
 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
-Astro AEC,https://cdn3.indevs.in/stream/live/aec/
-Astro QJ,https://cdn3.indevs.in/stream/live/qj/
 Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -740,32 +738,14 @@ TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB 星河,https://cdn6.cc.cd/163189/tvbxh
 TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
-TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
-华丽翡翠(北美),http://rihou.cc:555/tv/[Pd]无线翡翠
-翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽
-明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
-寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
-东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
-TVBS,http://rihou.cc:555/tv/[Hv]tvbS闽南
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-中天新闻,http://rihou.cc:555/tv/[Pd]中天新闻
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-凤凰香港,https://cdn6.cc.cd/163189/fhhk
+凤凰中文,http://k.061899.xyz/k.php?id=fhzw
+凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
+凤凰香港,http://k.061899.xyz/k.php?id=fhhk
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=19
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=114695
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156407
 凤凰美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153402
@@ -782,20 +762,10 @@ TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9
 TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153397
 YOYO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156403
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
-壹新闻,http://rihou.cc:555/tv/[Hk]闽壹新闻
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-民视新闻,http://rihou.cc:555/tv/[Hk]民视新闻
 民视新闻,http://211.72.174.95:8117/0.ts
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-凤凰中文,http://k.061899.xyz/k.php?id=fhzw
-凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
-凤凰香港,http://k.061899.xyz/k.php?id=fhhk
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=19
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 TVB Plus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=0
 MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
@@ -804,24 +774,18 @@ TVBDRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
-格斗频道,http://iptv.4666888.xyz/iptv2A.php?id=57
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
 黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华偶像,https://8.fast.hidns.vip/163189/lhox
 龙华日韩,https://8.fast.hidns.vip/163189/lhrh
 龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 民视影剧,https://cdn12.178.indevs.in/163189/msyj
@@ -859,7 +823,6 @@ CHU,https://cdn6.cc.cd/163189/chu
 广东综合,https://168.sryze.cc/163189/gzzh
 广东新闻,https://168.sryze.cc/163189/gzxw
 广州南国,https://cdn15.163189.xyz/163189/ngds
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
@@ -871,37 +834,6 @@ CHU,https://cdn6.cc.cd/163189/chu
 广东湾区,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 广东湾区,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-广州南国,http://rihou.cc:555/tv/[Cx]广州南国
-HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-NOW新闻台,http://rihou.cc:555/tv/[Pd]Now新闻
-HOY 77,http://rihou.cc:555/tv/[Pd]有线综合
-TVBDRAMA,http://rihou.cc:555/tv/[Pd]无线翡剧
-娱乐新闻,http://rihou.cc:555/tv/[Pd]无线娱乐|
-TVB1,http://rihou.cc:555/tv/[Pd]无线娱乐
-TVB 星河,http://rihou.cc:555/tv/[Pd]无线星河
-千禧经典,http://rihou.cc:555/tv/[Pd]无线经典
-TVB亚洲武侠,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
-重温经典,http://rihou.cc:555/tv/[Pd]重温经典
-八度空间,http://rihou.cc:555/tv/[Pd]八度空间
-CHU,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8,http://rihou.cc:555/tv/[Pd]CH8综合
-Astro AOD,http://rihou.cc:555/tv/[Pd]astroaod
-广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
-HOY 78,http://rihou.cc:555/tv/[Pd]有线新闻
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-NOW新闻台,http://rihou.cc:555/tv/[Cx]Now新闻
-NOW新闻台,http://rihou.cc:555/tv/[Hk]Now新闻
-NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
 東森中國台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156393
 東森戲劇,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156395
@@ -940,7 +872,6 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
 迪斯尼,http://iptv.4666888.xyz/iptv2A.php?id=40
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
