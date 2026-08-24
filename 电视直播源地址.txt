@@ -610,6 +610,7 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 北京卡酷少儿,http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 港台4G,#genre#
 寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
