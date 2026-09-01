@@ -602,7 +602,7 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-华視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 三立新聞,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
 TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
@@ -612,7 +612,7 @@ TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 寰宇新聞,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
 中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-华視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 三立新聞,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立新聞,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
@@ -623,7 +623,7 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-华視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+華視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 民視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
@@ -657,7 +657,7 @@ PTSxs,http://220.135.241.47:8312/0.ts
 台視綜合,http://220.135.241.47:8316/0.ts
 台視財經,http://220.135.241.47:8315/0.ts
 華視,http://220.135.241.47:8317/0.ts 
-華視新聞資訊,http://220.135.241.47:8319/0.ts
+華視新聞,http://220.135.241.47:8319/0.ts
 華視教育體育文化,http://220.135.241.47:8318/0.ts
 民視,rtmp://f13h.mine.nu/sat/tv051
 中視,rtmp://f13h.mine.nu/sat/tv091
