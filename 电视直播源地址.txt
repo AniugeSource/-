@@ -595,30 +595,14 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 延边卫视,http://183.215.116.134:6610/180000001001/32023031709181220216556910725802/main.m3u8?IASHttpSessionId=OTT
 康巴卫视,http://39.134.13.34:6610/000000001000/1000000005000266002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266002
 港台4G,#genre#
-寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+翡翠台_1,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+TVBPlus_1,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新闻
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-三立新聞,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 寰宇新聞,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
 中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 三立新聞,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立新聞,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
-中視,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
-華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
 三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -634,6 +618,10 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
+HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
 公視,http://211.72.174.95:8116/0.ts
@@ -667,153 +655,26 @@ PTSxs,http://220.135.241.47:8312/0.ts
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
-達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
-尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
-DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
-港台测试,#genre#
-環宇台灣,http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
-鏡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=鏡新聞&key=***
-鳳凰中文備,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
-鳳凰資訊_1,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊_1&key=***
-鳳凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
-翡翠台_1,http://49.232.143.177:80/pyxg/hmy.php?id=翡翠台_1&key=***
-TVB星河,http://49.232.143.177:80/pyxg/hmy.php?id=TVB星河&key=***
-TVBPlus_1,http://49.232.143.177:80/pyxg/hmy.php?id=TVBPlus_1&key=***
-明珠台備,http://49.232.143.177:80/pyxg/hmy.php?id=明珠台備&key=***
-TVBS備,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS備&key=***
-TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
-三立新聞,http://49.232.143.177:80/pyxg/hmy.php?id=三立新聞&key=***
-中天新聞備,http://49.232.143.177:80/pyxg/hmy.php?id=中天新聞備&key=***
-東森新聞備,http://49.232.143.177:80/pyxg/hmy.php?id=東森新聞備&key=***
-華視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
-民視台灣,http://49.232.143.177:80/pyxg/hmy.php?id=民視台灣&key=***
-民視第一,http://49.232.143.177:80/pyxg/hmy.php?id=民視第一&key=***
-中視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中視新聞&key=***
-台視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=台視新聞&key=***
-民視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=民視新聞&key=***
-年代新聞,http://49.232.143.177:80/pyxg/hmy.php?id=年代新聞&key=***
-壹新聞,http://49.232.143.177:80/pyxg/hmy.php?id=壹新聞&key=***
-Now新聞台,http://49.232.143.177:80/pyxg/hmy.php?id=Now新聞台&key=***
-非凡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=非凡新聞&key=***
-無綫新聞_1,http://49.232.143.177:80/pyxg/hmy.php?id=無綫新聞_1&key=***
-ViUTV,http://49.232.143.177:80/pyxg/hmy.php?id=ViUTV&key=***
-ViUTVSix,http://49.232.143.177:80/pyxg/hmy.php?id=ViUTVSix&key=***
-HOY77,http://49.232.143.177:80/pyxg/hmy.php?id=HOYTV&key=***
-HOY78,http://49.232.143.177:80/pyxg/hmy.php?id=HOY資訊台&key***
-HOY76,http://49.232.143.177:80/pyxg/hmy.php?id=HOY財經台&key=***
-18台,http://49.232.143.177:80/pyxg/hmy.php?id=18台&key=***
-Now財經台,http://49.232.143.177:80/pyxg/hmy.php?id=Now財經台&key=***
-中視,http://49.232.143.177:80/pyxg/hmy.php?id=中視&key=***
-華視,http://49.232.143.177:80/pyxg/hmy.php?id=華視&key=***
-民視_1,http://49.232.143.177:80/pyxg/hmy.php?id=民視_1&key=***
-台視,http://49.232.143.177:80/pyxg/hmy.php?id=台視&key=***
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-台視綜合,http://49.232.143.177:80/pyxg/hmy.php?id=台視綜合&key=***
-公視,http://49.232.143.177:80/pyxg/hmy.php?id=公視&key=***
-中天綜合,http://49.232.143.177:80/pyxg/hmy.php?id=中天綜合&key=***
-八大綜合,http://49.232.143.177:80/pyxg/hmy.php?id=八大綜合&key=***
-八大第一,http://49.232.143.177:80/pyxg/hmy.php?id=八大第一&key=***
-東森綜合,http://49.232.143.177:80/pyxg/hmy.php?id=東森綜合&key=***
-三立都會,http://49.232.143.177:80/pyxg/hmy.php?id=三立都會&key=***
-三立台灣,http://49.232.143.177:80/pyxg/hmy.php?id=三立台灣&key=***
-龍華偶像,http://49.232.143.177:80/pyxg/hmy.php?id=龍華偶像&key=***
-龍華電影,http://49.232.143.177:80/pyxg/hmy.php?id=龍華電影&key=***
-龍華經典,http://49.232.143.177:80/pyxg/hmy.php?id=龍華經典&key=***
-好萊塢電影,http://49.232.143.177:80/pyxg/hmy.php?id=好萊塢電影&key=***
-功夫台,http://49.232.143.177:80/pyxg/hmy.php?id=功夫台&key=***
-東森電影,http://49.232.143.177:80/pyxg/hmy.php?id=東森電影&key=***
-緯來電影,http://49.232.143.177:80/pyxg/hmy.php?id=緯來電影&key=***
-天映經典,http://49.232.143.177:80/pyxg/hmy.php?id=天映經典&key=***
-美亚电影台,http://49.232.143.177:80/pyxg/hmy.php?id=美亚电影台&key=***
-POPC,http://49.232.143.177:80/pyxg/hmy.php?id=POPC&key=***
-中國電影,http://49.232.143.177:80/pyxg/hmy.php?id=中國電影&key=***
-翡翠台_1,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-TVBPlus_1,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-美亚电影台,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台粤澳财经,#genre#
 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
-TVB 星河,https://10.fast.hidns.vip/163189/xinghe/
+TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-华丽翡翠,https://cdn3.indevs.in/stream/live/hlt/
-华丽翡翠,https://cdn6.cc.cd/163189/jade
 华丽翡翠台(新加坡),https://cdn3.indevs.in/stream/live/jade/
-翡翠台,https://cdn6.cc.cd/163189/hlfct
-翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
-翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB 星河,https://cdn6.cc.cd/163189/tvbxh
-TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw
 凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=19
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=114695
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156407
-凤凰美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153402
-凤凰美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156408
-漢天電視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156391
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
-TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153396
-TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153401
-TVBJ1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153395
-TVBe,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153398
-TVBDRAMA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153400
-台视新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156398
-TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156402
-TVBS ASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153397
-YOYO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156403
-中天新闻,rtmp://media.atmsiot.com/live/ztxw
-民视新闻,http://211.72.174.95:8117/0.ts
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB Plus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=0
 MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
@@ -822,10 +683,15 @@ TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK32,https://fast.hidns.vip/163189/rthk32
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+HOY 77,https://fast.hidns.vip/163189/hoy
+HOY 78,https://fast.hidns.vip/163189/hoy78
+NOW新闻台,https://fast.hidns.vip/163189/now
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
 黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -834,6 +700,12 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 龙华日韩,https://8.fast.hidns.vip/163189/lhrh
 龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+公視,http://211.72.174.95:8116/0.ts
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 民视影剧,https://cdn12.178.indevs.in/163189/msyj
 公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
@@ -841,72 +713,15 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 靖天映画,https://cdn12.178.indevs.in/163189/jtyh
 靖天戏剧,https://cdn12.178.indevs.in/163189/jtxj
 靖洋戏剧,https://cdn12.178.indevs.in/163189/jyxj
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-公視,http://211.72.174.95:8116/0.ts
-娱乐新闻,https://cdn6.cc.cd/163189/ylxw
-无线新闻,https://cdn6.cc.cd/163189/wxxwt
-HOY 77,https://cdn6.cc.cd/163189/hoy
-HOY 77,https://fast.hidns.vip/163189/hoy
-HOY 78,https://fast.hidns.vip/163189/hoy78
-NOW新闻台,https://fast.hidns.vip/163189/now
-RTHK31,https://fast.hidns.vip/163189/rthk31
-RTHK32,https://fast.hidns.vip/163189/rthk32
-TVB1,https://cdn6.cc.cd/163189/tvb1
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
-TVBJ1,https://cdn6.cc.cd/163189/j1
-TVBDRAMA,https://cdn6.cc.cd/163189/tvbd
-无线新闻,https://cdn6.cc.cd/163189/wxxw
-八度空间,https://cdn6.cc.cd/163189/8tv
-CH5,https://cdn6.cc.cd/163189/ch5
-CH8,https://cdn6.cc.cd/163189/ch8
-CHU,https://cdn6.cc.cd/163189/chu
 千禧经典,https://cdn3.indevs.in/stream/live/tvbc/
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东综合,https://168.sryze.cc/163189/gzzh
 广东新闻,https://168.sryze.cc/163189/gzxw
 广州南国,https://cdn15.163189.xyz/163189/ngds
-广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
-广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
-广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东湾区,http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
-广东湾区,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
-東森中國台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156393
-東森戲劇,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156395
-東森衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156394
-東森美洲,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156397
-美國城市衛視,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156401
-三立国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156390
-台视综合,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156392
-海峡卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156424
-华夏电视台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156422
-长城精品,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156409
-长城精品,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156410
-FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90352
-FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90350
-FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90351
-天下衛視SKYLINK TV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156399
-天下衛視SKYLINK TV 1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156400
-澳视澳门,https://cdn6.cc.cd/163189/asam
-澳视卫星,https://cdn6.cc.cd/163189/as
-澳门体育,https://cdn6.cc.cd/163189/amty
-澳门综艺,https://cdn6.cc.cd/163189/amzy
-澳门莲花,https://cdn6.cc.cd/163189/amlh
-重温经典,https://cdn6.cc.cd/163189/cwjd
 重温经典,https://168.sryze.cc/163189/cwjd
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
-金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
 迪斯尼,https://cdn12.178.indevs.in/163189/dreamworks
 精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
@@ -916,26 +731,18 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戏,http://iptv.4666888.xyz/iptv2A.php?id=49
 迪斯尼,http://iptv.4666888.xyz/iptv2A.php?id=40
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-娱乐新闻,http://139.159.221.112/jr.php?id=6fa8ae78987b233391a792bb4e2160ec22b91addd6f313bdbd7c16ccb5944958&l=0
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 唯心TV,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-東森財經,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156396
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 财富天下,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040380/main.m3u8?stbid=
-东方财经,http://182.135.66.163:1888/rtp/239.94.2.236:5140
-东方财经,http://121.230.179.192:8802/rtp/239.49.0.95:8000
 东方财经,http://182.135.66.163:1888/rtp/239.94.1.59:5140
-第一财经,http://wfenf.x3322.net:7788/608780988
 第一财经,http://www.ikerobot.com:1234/608780988
-第一财经,http://p.08top.top:8088/608780988
-第一财经,http://47.104.178.59:3566/608780988
 第一财经,http://111.228.4.117:6789/migu720p.php?id=608780988
 小品剧集电影,#genre#
 爆笑小品大合集,https://www.goodiptv.club/yy/1382736821
