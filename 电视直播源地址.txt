@@ -618,6 +618,11 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+黄金华剧台,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+美亚电影台,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+美亚电影台,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
@@ -681,11 +686,12 @@ NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBDRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
+MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=22
+黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
@@ -699,7 +705,6 @@ HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 78,https://fast.hidns.vip/163189/hoy78
 NOW新闻台,https://fast.hidns.vip/163189/now
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
-黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华偶像,https://8.fast.hidns.vip/163189/lhox
@@ -761,7 +766,7 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 欢乐集结号4,https://www.goodiptv.club/yy/1382736889
 欢乐集结号,https://www.goodiptv.club/yy/1382735550
 欢乐集结号3,https://www.goodiptv.club/yy/1382736822
-宋小宝春晚小品合集,https://www.goodiptv.club/yy/1382736866
+欢乐集结号58-70,https://www.goodiptv.club/yy/1382745119
 经典小品相声乐不停,https://www.goodiptv.club/douyu/9273031
 宋小宝早期经典作品,https://www.goodiptv.club/douyu/9374865
 影视 笑工场的直播间,https://www.goodiptv.club/douyu/10298846
@@ -772,7 +777,6 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 经典小品，下饭必备,https://www.goodiptv.club/douyu/9067836
 本山快乐营-爆笑小品,https://www.goodiptv.club/yy/1354930948
 赵本山宋小宝小品大全,https://www.goodiptv.club/yy/1382745331
-欢乐集结号58-70,https://www.goodiptv.club/yy/1382745119
 你最爱的宋小宝,https://www.goodiptv.club/yy/1354936198
 贾玲经典小品,http://8.155.43.98:35455/douyu/10419541
 赵本山经典小品,http://8.155.43.98:35455/douyu/9817716
