@@ -672,13 +672,20 @@ TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 华丽翡翠台(新加坡),https://cdn3.indevs.in/stream/live/jade/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+翡翠台,http://173.208.234.146/live/jade.m3u8
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
+中天新闻,https://my5353.com/ztxw
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港,http://173.208.234.146/live/fhhk.m3u8
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw
 凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
@@ -701,9 +708,13 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+HOY 76,http://173.208.234.146/live/hoy76.m3u8
 HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 78,https://fast.hidns.vip/163189/hoy78
+HOY 77,http://173.208.234.146/live/hoy78.m3u8
+HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 NOW新闻台,https://fast.hidns.vip/163189/now
+NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
 TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
@@ -725,12 +736,52 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 靖天戏剧,https://cdn12.178.indevs.in/163189/jtxj
 靖洋戏剧,https://cdn12.178.indevs.in/163189/jyxj
 千禧经典,https://cdn3.indevs.in/stream/live/tvbc/
+广东珠江,http://chen.ccwu.cc:1234/639731952#http://smartzhu.cn:1234/639731952
+广东珠江,http://192.151.150.154/live/gdzj.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+广东民生,http://107.150.60.122/live/gdgg.m3u8
+广东民生,http://192.151.150.154/live/gdgg.m3u8
+广东民生,http://198.204.228.26/live/gdgg.m3u8
+广东民生,http://183.236.43.98:4111/udp/239.77.0.225:5146
+广东民生,http://183.236.43.98:4014/udp/239.77.0.225:5146
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东综合,https://168.sryze.cc/163189/gzzh
 广东新闻,https://168.sryze.cc/163189/gzxw
 广州南国,https://cdn15.163189.xyz/163189/ngds
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东珠江,http://8.134.175.232:4022/udp/239.77.0.1:5146
+广东新闻,http://8.134.175.232:4022/udp/239.77.0.173:5146
+广东民生,http://8.134.175.232:4022/udp/239.77.0.225:5146
+广东体育,http://8.134.175.232:4022/udp/239.77.0.112:5146
+经济科教,http://8.134.175.232:4022/udp/239.77.0.85:5146
+大湾区卫视,http://8.134.175.232:4022/udp/239.77.0.215:5146
+广东珠江,http://hongzhijiaoyu.net:8188/udp/239.77.0.1:5146
+广东新闻,http://hongzhijiaoyu.net:8188/udp/239.77.0.173:5146
+广东民生,http://hongzhijiaoyu.net:8188/udp/239.77.0.225:5146
+广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
+经济科教,http://hongzhijiaoyu.net:8188/udp/239.77.0.85:5146
+大湾区卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.215:5146
+广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
+广东新闻,http://lsa.familyds.com:8188/udp/239.77.0.173:5146
+广东民生,http://lsa.familyds.com:8188/udp/239.77.0.225:5146
+广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
+经济科教,http://lsa.familyds.com:8188/udp/239.77.0.85:5146
+大湾区卫视,http://lsa.familyds.com:8188/udp/239.77.0.215:5146
+广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
+广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
+广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
+广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
+经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
+大湾区卫视,http://www.yahao.host:4022/udp/239.77.0.215:5146
+广东珠江,http://wmh.wmh.ink:6633/udp/239.77.0.1:5146
+广东新闻,http://wmh.wmh.ink:6633/udp/239.77.0.173:5146
+广东民生,http://wmh.wmh.ink:6633/udp/239.77.0.225:5146
+广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
+经济科教,http://wmh.wmh.ink:6633/udp/239.77.0.85:5146
+大湾区卫视,http://wmh.wmh.ink:6633/udp/239.77.0.215:5146
 重温经典,https://168.sryze.cc/163189/cwjd
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 迪斯尼,https://cdn12.178.indevs.in/163189/dreamworks
@@ -1193,6 +1244,7 @@ My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
+Popc,http://173.208.234.146/live/popc.m3u8
 DJ舞曲,#genre#
 开场低音串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479_258.mp4
 经典Dj嗨歌01,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c0531dbca1064f037001992f48d0cd_258.mp4
