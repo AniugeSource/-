@@ -597,8 +597,10 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 港台4G,#genre#
 翡翠台_1,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 TVBPlus_1,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-寰宇新聞,http://rihou.cc:555/tv/[Hk]寰宇新闻
 寰宇新聞,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇新闻台湾台,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
+镜新闻,http://220.135.64.124:5050/of-4gtv-4gtv075/index.m3u8?proxy=true
 中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 三立新聞,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
@@ -674,7 +676,7 @@ TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 翡翠台,http://173.208.234.146/live/jade.m3u8
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+TVB Plus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
@@ -712,7 +714,7 @@ HOY 76,http://173.208.234.146/live/hoy76.m3u8
 HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 78,https://fast.hidns.vip/163189/hoy78
 HOY 77,http://173.208.234.146/live/hoy78.m3u8
-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+HOY 78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
@@ -1150,7 +1152,7 @@ si神来了系列  好怕怕,https://www.goodiptv.club/huya/11352903
 周星驰,https://www.goodiptv.club/huya/11342412
 周星驰1,https://www.goodiptv.club/yy/38670875
 吴京,https://www.goodiptv.club/yy/37999586
-吴京1,https://www.goodiptv.club/yy/1456668939
+吴京,https://www.goodiptv.club/yy/1456668939
 成龙,https://www.goodiptv.club/yy/1354888751
 成龙2,https://www.goodiptv.club/huya/11342386
 周润发,https://www.goodiptv.club/yy/1354888733
@@ -1183,39 +1185,33 @@ si神来了系列  好怕怕,https://www.goodiptv.club/huya/11352903
 寻秦记,https://www.goodiptv.club/yy/1382749900
 庆余年,http://8.155.43.98:35455/douyu/7812810
 庆余年,https://www.goodiptv.club/huya/11352960
-亮剑,https://www.goodiptv.club/huya/30080238
 雪豹,https://www.goodiptv.club/huya/29580970
 永夜星河,https://www.goodiptv.club/huya/23734169
 天龙八部,https://www.goodiptv.club/huya/20985816
 天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,https://www.goodiptv.club/yy/1355067965
-埋堆堆 1,https://www.goodiptv.club/huya/23740156
-埋堆堆 5,https://www.goodiptv.club/huya/23734169
-埋堆堆 6,https://www.goodiptv.club/huya/23863804
-埋堆堆 7,https://www.goodiptv.club/huya/23865080
-埋堆堆 8,https://www.goodiptv.club/huya/23864973
-埋堆堆 9,https://www.goodiptv.club/huya/23903130
-埋堆堆 10,https://www.goodiptv.club/huya/23860039
-埋堆堆 11,https://www.goodiptv.club/huya/23903183
-埋堆堆 13,https://www.goodiptv.club/huya/23728674
-埋堆堆 14,https://www.goodiptv.club/huya/23865036
-埋堆堆 15,https://www.goodiptv.club/huya/23829543
-埋堆堆 16,https://www.goodiptv.club/huya/23865161
-埋堆堆 18,https://www.goodiptv.club/huya/23824164
-埋堆堆 19,https://www.goodiptv.club/huya/23863796
-埋堆堆 20,https://www.goodiptv.club/huya/23734183
-埋堆堆 21,https://www.goodiptv.club/huya/23728660
-埋堆堆 22,https://www.goodiptv.club/huya/23865142
-埋堆堆 23,https://www.goodiptv.club/huya/23734246
-埋堆堆 24,https://www.goodiptv.club/huya/23865171
-埋堆堆 25,https://www.goodiptv.club/huya/23734256
-埋堆堆 26,https://www.goodiptv.club/huya/23749083
+埋堆堆经典古装 6,https://www.goodiptv.club/huya/23863804
+埋堆堆 喜羊羊与灰太狼7,https://www.goodiptv.club/huya/23865080
+埋堆堆 敢死队8,https://www.goodiptv.club/huya/23864973
+埋堆堆 古装剧9,https://www.goodiptv.club/huya/23903130
+埋堆堆 剧集10,https://www.goodiptv.club/huya/23860039
+埋堆堆 韩剧11,https://www.goodiptv.club/huya/23903183
+埋堆堆 美剧13,https://www.goodiptv.club/huya/23728674
+埋堆堆 古装剧集14,https://www.goodiptv.club/huya/23865036
+埋堆堆 叶问15,https://www.goodiptv.club/huya/23829543
+埋堆堆 剧集16,https://www.goodiptv.club/huya/23865161
+埋堆堆 仙侠剧集18,https://www.goodiptv.club/huya/23824164
+埋堆堆 港剧19,https://www.goodiptv.club/huya/23863796
+埋堆堆 现代剧集20,https://www.goodiptv.club/huya/23734183
+埋堆堆 现代剧集21,https://www.goodiptv.club/huya/23728660
+埋堆堆 剧集22,https://www.goodiptv.club/huya/23865142
+埋堆堆 电视剧23,https://www.goodiptv.club/huya/23734246
+埋堆堆 电视剧24,https://www.goodiptv.club/huya/23865171
+埋堆堆 繁花26,https://www.goodiptv.club/huya/23749083
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
-天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
-天映经典,http://o11.163189.xyz/stream/live/ccm/
 FGM电影,http://iptv.4666888.xyz/iptv2A.php?id=54
 rockaction,http://iptv.4666888.xyz/iptv2A.php?id=50
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
@@ -1234,10 +1230,6 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 靖天电影,https://cdn12.178.indevs.in/163189/jtdy
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
-FGM电影,https://cdn12.178.indevs.in/163189/ymswdyt
-amc电影台,https://cdn12.178.indevs.in/163189/amc
-CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
-My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
 天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
