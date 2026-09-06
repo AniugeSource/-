@@ -950,140 +950,123 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 哆啦A梦,https://www.goodiptv.club/huya/11601963
 猫和老鼠,https://www.goodiptv.club/huya/11352879
 喜羊羊与灰太狼,https://www.goodiptv.club/huya/23865080
-我摊牌啦 一起看热门大片,https://www.goodiptv.club/huya/880261
-【春节贺岁档】神仙打架 看就完事了！,https://www.goodiptv.club/huya/11601986
-经典之作·陆小凤系列,https://www.goodiptv.club/huya/11342427
-【五福星】每天都要快乐哦,https://www.goodiptv.club/huya/11282233
-各位观众 五条A！！！！,https://www.goodiptv.club/huya/21059607
-【元宵节快乐】我们一起找乐子,https://www.goodiptv.club/huya/11602044
-热血燃爽！且看中国男儿在线荷尔蒙爆发！,https://www.goodiptv.club/huya/23728693
-一起来看搞笑恐怖电影 弹幕护体,https://www.goodiptv.club/huya/11601960
-各位观众 请看！！！,https://www.goodiptv.club/huya/11342399
-洪武大案朱元璋惩贪,https://www.goodiptv.club/huya/11352973
-喜剧粤语专场 看喜剧笑一笑吧,http://nn.7x9d.cn/xz/虎牙.php?id=11352894
-超级英雄电影·永远的神！,http://nn.7x9d.cn/xz/虎牙.php?id=11352950
-枪战还是得看他！,https://www.goodiptv.club/huya/21059579
-怪兽宇宙电影！哥斯拉大战金刚,https://www.goodiptv.club/huya/29982674
+一起看热门大片,https://www.goodiptv.club/huya/880261
+每天都要快乐哦,https://www.goodiptv.club/huya/11282233
+各位观众五条,https://www.goodiptv.club/huya/21059607
+我们一起找乐子,https://www.goodiptv.club/huya/11602044
+热血燃爽,https://www.goodiptv.club/huya/23728693
+一起来看搞笑恐怖,https://www.goodiptv.club/huya/11601960
+各位观众,https://www.goodiptv.club/huya/11342399
+超级英雄电影,http://nn.7x9d.cn/xz/虎牙.php?id=11352950
+枪战还是得看他,https://www.goodiptv.club/huya/21059579
+哥斯拉大战金刚,https://www.goodiptv.club/huya/29982674
 一梦中土 沉醉一生,https://www.goodiptv.club/huya/11342385
-超爽动作电影 九龙城寨精武英雄,https://www.goodiptv.club/huya/10871113
-不挤电影院也能笑着过春节！,https://www.goodiptv.club/huya/11352897
-国产悬疑精选·智商在线,https://www.goodiptv.club/huya/11342395
-怪兽打架x异形世界：爽就完事了,https://www.goodiptv.club/huya/21059577
-搞笑喜剧：最佳拍档 精装追女仔,https://www.goodiptv.club/huya/11342423
-【女神系列】邱淑贞 王祖贤 张曼玉	,https://www.goodiptv.club/huya/11336571
-大场面战争片:一枚核弹爆炸,https://www.goodiptv.club/huya/21059574
-经典烧脑探案推理电影合集 快上车!,https://www.goodiptv.club/huya/30080172
-星球大战: 宇宙电影的起点,https://www.goodiptv.club/huya/30080234
-快意江湖：金庸的武侠世界,https://www.goodiptv.club/huya/11342435
-[诺兰电影] 科幻史诗巨作！,https://www.goodiptv.club/huya/30080257
-最新科幻大片 速来认领你的年度颅内狂欢,https://www.goodiptv.club/huya/11352965
-国产高燃动作电影 姿势要帅,https://www.goodiptv.club/huya/11602041
-皇家师姐系列 看美女打架,https://www.goodiptv.club/huya/11601955
-不是 好好地你惹他干嘛,https://www.goodiptv.club/huya/11279247
-利刃双雄：si侍与金刚狼,https://www.goodiptv.club/huya/30080224
-首尔之春 这一晚han国发生了什么,https://www.goodiptv.club/huya/30080226
-古墓系列·去冒险吧！,https://www.goodiptv.club/huya/11352913
-谁会不喜欢可爱的小黄人呢,https://www.goodiptv.club/huya/11342428
-全世界都钟爱的盗墓电影鼻祖,https://www.goodiptv.club/huya/11601981
-真正的硬汉007，铁打的詹姆斯邦德！,hhttps://www.goodiptv.club/huya/21059585
-各位话事人谁赞成谁反对,https://www.goodiptv.club/huya/26355853
-sha生·能过审是奇迹,https://www.goodiptv.club/huya/11352876
-今晚别去木屋！鬼玩人系列噩梦小屋轮播,https://www.goodiptv.club/huya/23728674
-血浆炸弹 嗜血芭蕾 准备好了没2,https://www.goodiptv.club/huya/21241803
+九龙城寨精武英雄,https://www.goodiptv.club/huya/10871113
+怪兽打架x异形,https://www.goodiptv.club/huya/21059577
+搞笑喜剧,https://www.goodiptv.club/huya/11342423
+女神系列,https://www.goodiptv.club/huya/11336571
+大场面战争片,https://www.goodiptv.club/huya/21059574
+经典烧脑探案,https://www.goodiptv.club/huya/30080172
+星球大战,https://www.goodiptv.club/huya/30080234
+科幻,https://www.goodiptv.club/huya/30080257
+最新科幻大片,https://www.goodiptv.club/huya/11352965
+国产高燃动作电影,https://www.goodiptv.club/huya/11602041
+皇家师姐系列,https://www.goodiptv.club/huya/11601955
+不是 好好地你惹他,https://www.goodiptv.club/huya/11279247
+si侍与金刚狼,https://www.goodiptv.club/huya/30080224
+首尔之春,https://www.goodiptv.club/huya/30080226
+古墓系列,https://www.goodiptv.club/huya/11352913
+谁会不喜欢可爱,https://www.goodiptv.club/huya/11342428
+盗墓电影鼻祖,https://www.goodiptv.club/huya/11601981
+真正的硬汉007,hhttps://www.goodiptv.club/huya/21059585
+各位话事人谁赞成,https://www.goodiptv.club/huya/26355853
+血浆炸弹嗜血芭蕾 ,https://www.goodiptv.club/huya/21241803
 家人们我笑麻了,https://www.goodiptv.club/huya/21059615
-神作科幻美学！银翼杀手 黑客帝国…,https://www.goodiptv.club/huya/29982648
-漫改电影系列 超强剑心来袭,https://www.goodiptv.club/huya/11336593
-上天下海拼手速 后继无人阿汤哥,https://www.goodiptv.club/huya/26355792
-狄仁杰,https://www.goodiptv.club/huya/30080229
-校园热血电影，不比古惑仔差,https://www.goodiptv.club/huya/11352934
-人性本恶 凶山恶水出刁民,https://www.goodiptv.club/huya/29982649
-经典史诗电影 角斗士 天国王朝,https://www.goodiptv.club/huya/20969119
-空降的英雄，肌肉科技梦男,https://www.goodiptv.club/huya/26355780
-星际迷航, 勇踏前人未至之境,https://www.goodiptv.club/huya/30080232
-最新泡菜国大片 复仇动作搞笑一网打尽,https://www.goodiptv.club/huya/26355838
-看得我欲罢不能·人要有敬畏之心,https://www.goodiptv.club/huya/20985864
+神作科幻美学,https://www.goodiptv.club/huya/29982648
+漫改电影系列,https://www.goodiptv.club/huya/11336593
+校园热血电影,https://www.goodiptv.club/huya/11352934
+人性本恶,https://www.goodiptv.club/huya/29982649
+经典史诗电影,https://www.goodiptv.club/huya/20969119
+空降的英雄,https://www.goodiptv.club/huya/26355780
+星际迷航,https://www.goodiptv.club/huya/30080232
+最新泡菜国大片,https://www.goodiptv.club/huya/26355838
+看得我欲罢不能,https://www.goodiptv.club/huya/20985864
 盗墓还得看经典的,https://www.goodiptv.club/huya/21059552
-战争并不是一场游戏,https://www.goodiptv.club/huya/20969127
-[黑夜传说] 吸血鬼大战狼人,https://www.goodiptv.club/huya/30080231
-英雄纪元碰撞：从蝙蝠洞到斯塔克大厦24小时穿越,https://www.goodiptv.club/huya/11601980
-毒液三部曲合集！,https://www.goodiptv.club/huya/29982604
-真正高级的恐怖片，就该这么拍！,https://www.goodiptv.club/huya/26355851
-特效炸裂！超新科幻电影大合集熬夜也要看！,https://www.goodiptv.club/huya/23746486
-国外超好看经典电影！不看要后悔了,https://www.goodiptv.club/huya/30080155
-铁血真汉子 开启约翰·麦卡伦的不死征程,https://www.goodiptv.club/huya/23749068
-拳拳到肉，男人公认的 “爽片天花板”！,https://www.goodiptv.club/huya/30080147
-男人的科幻盛宴！穿梭时空经典穿越一次看个够！,https://www.goodiptv.club/huya/29465892
-【新年快乐】港式哈哈笑 ,https://www.goodiptv.club/huya/11601971
-异形 VS 铁血战士,https://www.goodiptv.club/huya/11602047
-飞虎雄鹰 阿sir好型,https://www.goodiptv.club/huya/29465898
-关于复仇电影-以牙还牙，以血还血,https://www.goodiptv.club/huya/29982645
-千万不要一个人看！敢看到最后的都是狠人！,https://www.goodiptv.club/huya/20985839
-港片经典系列 不看浑身难受,https://www.goodiptv.club/huya/29982660
-看完你也学不会系列~,https://www.goodiptv.club/huya/11352945
-hentai一览 连环sha手,https://www.goodiptv.club/huya/30080185
-本片教给我们的杀人/逃命正确方式,https://www.goodiptv.club/huya/21954527
-国产科幻 从拓荒到崛起的逆袭之路,https://www.goodiptv.club/huya/20985801
-史诗级谍战 速围观,https://www.goodiptv.club/huya/20969129
-黑色幽默 荒诞世界,https://www.goodiptv.club/huya/30080159
-【杀手没有假期】杀手系列电影,https://www.goodiptv.club/huya/23728689
-大白鲨系列-炙烤大鲨鱼,https://www.goodiptv.club/huya/29465881
-无形之手 银河映像宿命论之夜,https://www.goodiptv.club/huya/30080174
-纳尼亚传奇 博物馆奇妙夜系列,https://www.goodiptv.club/huya/30080188
-美恐前三季封神！这尺度放现在根本播不了,https://www.goodiptv.club/huya/23860049
-印度高分电影 看阿三哥开挂,https://www.goodiptv.club/huya/26355799
-无聊点进来笑一笑 别笑出猪叫,https://www.goodiptv.club/huya/29465896
-电锯锤子备好 等一个有缘人,https://www.goodiptv.club/huya/11601969
-烧脑电影合集 糟糕要长出脑子了,https://www.goodiptv.club/huya/11342437
-最新动作大片 速来领取你的下饭小菜,https://www.goodiptv.club/huya/23728651
-燃到起鸡皮疙瘩！体育电影名场面，一次性看个够！,https://www.goodiptv.club/huya/23864480
-蛇蝎萝莉 暗黑正太 天生坏种,https://www.goodiptv.club/huya/26355802
-从菜鸟到拳王！你想不想变强？,https://www.goodiptv.club/huya/20969100
-国外一个打十个系列,https://www.goodiptv.club/huya/23863818
-国产搞笑喜剧，哪个戳爆你笑点,https://www.goodiptv.club/huya/21059559
-绝境求生电影，实在太过刺激！,https://www.goodiptv.club/huya/20985793
-精彩动作电影,https://www.goodiptv.club/yy/1382736823
+战争,https://www.goodiptv.club/huya/20969127
+黑夜传说],https://www.goodiptv.club/huya/30080231
+英雄纪元碰撞,https://www.goodiptv.club/huya/11601980
+毒液三部曲,https://www.goodiptv.club/huya/29982604
+真正高级的恐怖片,https://www.goodiptv.club/huya/26355851
+特效炸裂,https://www.goodiptv.club/huya/23746486
+国外超好看经典,https://www.goodiptv.club/huya/30080155
+铁血真汉子,https://www.goodiptv.club/huya/23749068
+拳拳到肉,https://www.goodiptv.club/huya/30080147
+男人的科幻盛宴,https://www.goodiptv.club/huya/29465892
+港式哈哈笑 ,https://www.goodiptv.club/huya/11601971
+异形VS铁血战士,https://www.goodiptv.club/huya/11602047
+飞虎雄鹰,https://www.goodiptv.club/huya/29465898
+关于复仇电影,https://www.goodiptv.club/huya/29982645
+千万不要一个人看,https://www.goodiptv.club/huya/20985839
+港片经典系列,https://www.goodiptv.club/huya/29982660
+看完你也学不会,https://www.goodiptv.club/huya/11352945
+连环sha手,https://www.goodiptv.club/huya/30080185
+教给我们的杀人,https://www.goodiptv.club/huya/21954527
+国产科幻,https://www.goodiptv.club/huya/20985801
+史诗级谍战速围观,https://www.goodiptv.club/huya/20969129
+黑色幽默荒诞世界,https://www.goodiptv.club/huya/30080159
+杀手没有假期,https://www.goodiptv.club/huya/23728689
+大白鲨系列,https://www.goodiptv.club/huya/29465881
+无形之手,https://www.goodiptv.club/huya/30080174
+纳尼亚传奇,https://www.goodiptv.club/huya/30080188
+美恐前三季封神,https://www.goodiptv.club/huya/23860049
+印度高分电影,https://www.goodiptv.club/huya/26355799
+无聊点进来笑一笑,https://www.goodiptv.club/huya/29465896
+电锯锤子备好,https://www.goodiptv.club/huya/11601969
+烧脑电影合集,https://www.goodiptv.club/huya/11342437
+最新动作大片,https://www.goodiptv.club/huya/23728651
+体育电影名场面,https://www.goodiptv.club/huya/23864480
+蛇蝎萝莉,https://www.goodiptv.club/huya/26355802
+从菜鸟到拳王,https://www.goodiptv.club/huya/20969100
+国外一个打十个,https://www.goodiptv.club/huya/23863818
+国产搞笑喜剧,https://www.goodiptv.club/huya/21059559
+绝境求生电影,https://www.goodiptv.club/huya/20985793
+动作电影,https://www.goodiptv.club/yy/1382736823
 科幻,http://222.186.39.38:8000/882696/index.m3u8
 复仇,http://222.186.39.38:8000/435615/index.m3u8
 超级英雄,http://222.186.39.38:8000/091331/index.m3u8
-港片 喜剧 动作,https://www.goodiptv.club/yy/1355480591
+港片喜剧动作,https://www.goodiptv.club/yy/1355480591
 恐怖电影,https://www.goodiptv.club/yy/24066336
 绝地生死营救,https://www.goodiptv.club/yy/1354936214
 忠诚无畏，战犬出击,https://www.goodiptv.club/yy/1354930225
 紧急营救,https://www.goodiptv.club/yy/1354926676
-猩球崛起-怪兽片,https://www.goodiptv.club/yy/1354930181
 科幻电影,https://www.goodiptv.club/yy/1354930209
-太空荒野求生记-火星救援,https://www.goodiptv.club/yy/1354930957
 动作大片,https://www.goodiptv.club/yy/1354888739
 燃爆动作片,https://www.goodiptv.club/yy/1382736801
 叶问全集,https://www.goodiptv.club/yy/1382828771
-震撼！国内功夫大片,https://www.goodiptv.club/yy/1382736902
-拳拳到肉，搏击燃情,https://www.goodiptv.club/yy/1382736870
+国内功夫大片,https://www.goodiptv.club/yy/1382736902
+拳拳到肉,https://www.goodiptv.club/yy/1382736870
 超燃警匪片,https://www.goodiptv.club/yy/1382735576
-香港院线大片-最新,https://www.goodiptv.club/yy/1354936242
-末日系列-外国电影合集,https://www.goodiptv.club/yy/1354889019
-战争大片不间断,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
+香港院线大片,https://www.goodiptv.club/yy/1354936242
+末日系列,https://www.goodiptv.club/yy/1354889019
+战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 功夫电影,https://www.goodiptv.club/huya/11352941
-猫和老鼠,https://www.goodiptv.club/huya/11352879
 金庸武侠,https://www.goodiptv.club/huya/11342435
 电影_功夫片,https://www.goodiptv.club/huya/11352941
-猫和老鼠,https://www.goodiptv.club/huya/11352879
-电影_不挤影院,https://www.goodiptv.club/huya/11352897
+不挤影院,https://www.goodiptv.club/huya/11352897
 许氏三杰,https://www.goodiptv.club/huya/11602033
-电影_高分动作,https://www.goodiptv.club/huya/11352884
-电影_欢笑影院,https://www.goodiptv.club/huya/11352894
-电影_国产悬疑,https://www.goodiptv.club/huya/11342395
-电影_黑帮斗争,https://www.goodiptv.club/huya/11342419
-电影_喜乐影院,https://www.goodiptv.club/huya/21059580
-电影_武侠,https://www.goodiptv.club/huya/11342427
-电影_玄幻,https://www.goodiptv.club/huya/11342414
-电影_国产,https://www.goodiptv.club/huya/11352973
-珍珠港-电影,https://www.goodiptv.club/yy/1354936234
-金庸武侠,https://www.goodiptv.club/huya/11342435
+高分动作,https://www.goodiptv.club/huya/11352884
+欢笑影院,https://www.goodiptv.club/huya/11352894
+国产悬疑,https://www.goodiptv.club/huya/11342395
+黑帮斗争,https://www.goodiptv.club/huya/11342419
+喜乐影院,https://www.goodiptv.club/huya/21059580
+武侠,https://www.goodiptv.club/huya/11342427
+玄幻,https://www.goodiptv.club/huya/11342414
+国产,https://www.goodiptv.club/huya/11352973
+珍珠港,https://www.goodiptv.club/yy/1354936234
 功夫电影,https://www.goodiptv.club/huya/11352941
 贺岁电影,https://www.goodiptv.club/huya/11601986
-末日系列-外国电影合集,https://www.goodiptv.club/yy/1354889019
-太空荒野求生记-火星救援,https://www.goodiptv.club/yy/1354930957
-拳拳到肉，搏击燃情,https://www.goodiptv.club/yy/1382736870
+末日系列,https://www.goodiptv.club/yy/1354889019
+太空荒野求生,https://www.goodiptv.club/yy/1354930957
 动作大片,https://www.goodiptv.club/yy/1354888739
 经典鬼片3000部,https://www.goodiptv.club/yy/29460894
 恐怖电影,https://www.goodiptv.club/yy/24066336
@@ -1099,17 +1082,17 @@ hentai一览 连环sha手,https://www.goodiptv.club/huya/30080185
 外国科幻大片,https://www.goodiptv.club/yy/1382747628
 燃爆动作片,https://www.goodiptv.club/yy/1382736801
 深海利剑,https://www.goodiptv.club/yy/1382736906
-高分动作大片-热血出击,https://www.goodiptv.club/yy/1382736909
-国外院线动作大片,https://www.goodiptv.club/yy/1382735570
-动作大片-热血开打,https://www.goodiptv.club/yy/1354936168
+高分动作大片,https://www.goodiptv.club/yy/1382736909
+国外动作,https://www.goodiptv.club/yy/1382735570
+动作大片,https://www.goodiptv.club/yy/1354936168
 保护我家蓉儿,https://www.goodiptv.club/yy/1370293254
-侏罗纪世界-国外科幻大片合集,https://www.goodiptv.club/yy/1382736851
-猩球崛起-怪兽片合集,https://www.goodiptv.club/yy/1354930181
+侏罗纪世界,https://www.goodiptv.club/yy/1382736851
+猩球崛起,https://www.goodiptv.club/yy/1354930181
 喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
-丧尸围城！活死人系列24小时尸潮连播,https://www.goodiptv.club/huya/30080183
-【丧尸来啦】搞笑奇葩僵尸,https://www.goodiptv.club/huya/11342422
+丧尸围城,https://www.goodiptv.club/huya/30080183
+丧尸来啦,https://www.goodiptv.club/huya/11342422
 许氏三杰,http://nn.7x9d.cn/xz/虎牙.php?id=11602033
-si神来了系列  好怕怕,https://www.goodiptv.club/huya/11352903
+si神来了系列,https://www.goodiptv.club/huya/11352903
 速度与激情1,https://www.goodiptv.club/huya/29982635
 速度与激情2,https://www.goodiptv.club/yy/1382736911
 速度与激情3,https://www.goodiptv.club/yy/1382749892
@@ -1190,24 +1173,23 @@ si神来了系列  好怕怕,https://www.goodiptv.club/huya/11352903
 天龙八部,https://www.goodiptv.club/huya/20985816
 天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,https://www.goodiptv.club/yy/1355067965
-埋堆堆经典古装 6,https://www.goodiptv.club/huya/23863804
-埋堆堆 喜羊羊与灰太狼7,https://www.goodiptv.club/huya/23865080
-埋堆堆 敢死队8,https://www.goodiptv.club/huya/23864973
-埋堆堆 古装剧9,https://www.goodiptv.club/huya/23903130
-埋堆堆 剧集10,https://www.goodiptv.club/huya/23860039
-埋堆堆 韩剧11,https://www.goodiptv.club/huya/23903183
-埋堆堆 美剧13,https://www.goodiptv.club/huya/23728674
-埋堆堆 古装剧集14,https://www.goodiptv.club/huya/23865036
-埋堆堆 叶问15,https://www.goodiptv.club/huya/23829543
-埋堆堆 剧集16,https://www.goodiptv.club/huya/23865161
-埋堆堆 仙侠剧集18,https://www.goodiptv.club/huya/23824164
-埋堆堆 港剧19,https://www.goodiptv.club/huya/23863796
-埋堆堆 现代剧集20,https://www.goodiptv.club/huya/23734183
-埋堆堆 现代剧集21,https://www.goodiptv.club/huya/23728660
-埋堆堆 剧集22,https://www.goodiptv.club/huya/23865142
-埋堆堆 电视剧23,https://www.goodiptv.club/huya/23734246
-埋堆堆 电视剧24,https://www.goodiptv.club/huya/23865171
-埋堆堆 繁花26,https://www.goodiptv.club/huya/23749083
+经典古装 6,https://www.goodiptv.club/huya/23863804
+敢死队,https://www.goodiptv.club/huya/23864973
+古装剧9,https://www.goodiptv.club/huya/23903130
+剧集10,https://www.goodiptv.club/huya/23860039
+韩剧11,https://www.goodiptv.club/huya/23903183
+美剧13,https://www.goodiptv.club/huya/23728674
+古装剧集14,https://www.goodiptv.club/huya/23865036
+叶问15,https://www.goodiptv.club/huya/23829543
+剧集16,https://www.goodiptv.club/huya/23865161
+仙侠剧集18,https://www.goodiptv.club/huya/23824164
+港剧19,https://www.goodiptv.club/huya/23863796
+现代剧集20,https://www.goodiptv.club/huya/23734183
+现代剧集21,https://www.goodiptv.club/huya/23728660
+剧集22,https://www.goodiptv.club/huya/23865142
+电视剧23,https://www.goodiptv.club/huya/23734246
+电视剧24,https://www.goodiptv.club/huya/23865171
+繁花26,https://www.goodiptv.club/huya/23749083
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M
