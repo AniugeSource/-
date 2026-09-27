@@ -1,0 +1,91 @@
+﻿{
+  "urls": [
+    {
+     "name": "肥猫","url":"http://肥猫.net/tv"
+    },
+    {
+   "name": "Tomorrow·采集(47源)",
+   "url": "https://raw.githubusercontent.com/tushen6/Tomorrow/master/caiji.json"
+    },
+    {
+      "name": "🚀盒子迷",
+      "url": "https://盒子迷.top/禁止贩卖"
+    },
+    {
+      "url": "http://mdxgh.top:9999/mdxkj.json",
+      "name": "🚀码点影线"
+    },
+    {
+   "name": "喵站·纯净HTTP(主力)",
+   "url": 
+"https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json"
+    },
+    {
+      "name": "🚀小马线路",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "🚀真心",
+      "url": "https://tvbox.catvod.com/FongMi.json"
+    },
+    {
+    "name": "豆瓣",
+     "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+     "name": "小米","url":"https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
+    },
+  {  
+ "name": "潇洒1(低配机勿点)",
+"url":
+"https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+   },
+   {  
+ "name": "潇洒2(低配机勿点)",
+"url":
+"https://qist.wyfc.qzz.io/xiaosa/api.json"
+   },
+   {
+   "name": "饭太硬1(低配机勿点)",
+"url":
+"https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
+   },
+   {
+   "name": "饭太硬2(低配机勿点)",
+"url":
+"https://qist.wyfc.qzz.io/fty.json"
+   },
+   {
+      "name": "🚀天堂采集(低配机勿点)",
+      "url": "https://raw.giteeusercontent.com/zwssina/yunduanyuan/raw/master/ceshi.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjZXNoaS5qc29uIiwicGlkIjo5NjQ0MDcwLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTciLCJycCI6InJlcG9zL2MwL2NjL2MwY2MwMTM4ZTExNzk2MjIwZWM4MWNlMzRiZTAyMjg1NWI2MzUzZTdlMDI0ZWNkY2M0ZWNmZDQzMDQ2ZWYwNTMuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODQ0MjQwMDB9&signature=fItIMxRvOiiFsPU-_HQXB3sTgk72DnO7dRgmDpyoIno"
+    },
+    {
+    "name": "饭太硬(低配机勿点)","url":"http://www.饭太硬.cc/tv"
+    },
+    {
+    "name": "饭太硬1(低配机勿点)","url":"http://www.饭太硬.art/tv"
+    },
+    {
+     "name": "饭太硬2(低配机勿点)","url":"http://www.饭太硬.net/tv"
+    },
+    {
+    "name": "饭太硬3(低配机勿点)","url":"http://fty.xxooo.cf/tv"
+    }, 
+    {
+    "name": "宝盒(低配机勿点)","url":"http://宝盒接口.top"
+    },   
+    {
+    "name": "王小二(低配机勿点)","url":"https://9280.kstore.space/wex.json"
+    },                                                                                        
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀王二小线(低配机勿点)"
+    },
+    {
+      "url": "https://xn--aooa-mb1gy821b.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=ao双龙oa",
+      "name": "🚀讴歌线路(低配机勿点)"
+    }
+  ]
+}
+
+
