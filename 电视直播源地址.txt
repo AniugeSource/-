@@ -653,10 +653,7 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 延边卫视,http://183.215.116.134:6610/180000001001/32023031709181220216556910725802/main.m3u8?IASHttpSessionId=OTT
 康巴卫视,http://39.134.13.34:6610/000000001000/1000000005000266002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266002
 港台4G,#genre#
-寰宇新聞,http://sm.56312315.top:80/huai/hu/dy.php?token=f4af14ed896f9ceabbc40eab78a716d3&ch=c10303bc37d5a21d
-寰宇新聞,http://sm.56312315.top:80/huai/hu/dy.php?token=f4af14ed896f9ceabbc40eab78a716d3&ch=2c19429333b61c0f
-寰宇新聞,http://sm.56312315.top:80/huai/hu/dy.php?token=f4af14ed896f9ceabbc40eab78a716d3&ch=2d587d39e38f821c
-寰宇新聞,http://sm.56312315.top:80/huai/hu/dy.php?token=f4af14ed896f9ceabbc40eab78a716d3&ch=d150e6dd525bf381
+寰宇新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
@@ -671,6 +668,7 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 中天新聞,http://111.0.115.129:8081/live/000ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
 公視,http://211.72.174.95:8116/0.ts
@@ -703,19 +701,13 @@ TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-翡翠台,http://173.208.234.146/live/jade.m3u8
 TVB Plus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-中天新闻,https://my5353.com/ztxw
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
-凤凰香港,http://173.208.234.146/live/fhhk.m3u8
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw
 凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
@@ -734,10 +726,8 @@ RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 HOY 76,http://iptv.4666888.xyz/iptv2A.php?id=51
-HOY 76,http://173.208.234.146/live/hoy76.m3u8
 HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 78,https://fast.hidns.vip/163189/hoy78
-HOY 77,http://173.208.234.146/live/hoy78.m3u8
 HOY 78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
@@ -761,7 +751,6 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 博斯高球,http://iptv.4666888.xyz/iptv2A.php?id=10
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=45
 重温经典,https://168.sryze.cc/163189/cwjd
 靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=42
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
@@ -775,9 +764,6 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 时尚运动,http://iptv.4666888.xyz/iptv2A.php?id=49
 居家,http://iptv.4666888.xyz/iptv2A.php?id=47
-Luxetv,http://iptv.4666888.xyz/iptv2A.php?id=47
-吉滋生活,http://iptv.4666888.xyz/iptv2A.php?id=48
-style,http://iptv.4666888.xyz/iptv2A.php?id=46
 广东珠江,http://chen.ccwu.cc:1234/639731952#http://smartzhu.cn:1234/639731952
 广东珠江,http://192.151.150.154/live/gdzj.m3u8
 广东珠江,http://107.150.60.122/live/gdzj.m3u8
@@ -1178,17 +1164,13 @@ si神来了系列,http://8.155.43.98:35455/huya/11352903
 大进军全集：红色系列电影,http://8.155.43.98:35455/yy/1382745083
 经典抗战剧,http://8.155.43.98:35455/yy/1354555195
 学生兵,http://8.155.43.98:35455/yy/1354658003
-红色电影,http://8.155.43.98:35455/yy/1382745083
-热血战争巨作,http://8.155.43.98:35455/yy/1382745087
-学生兵,http://8.155.43.98:35455/yy/1354658003
-抗日神片,http://8.155.43.98:35455/yy/1354926600
 二炮手,http://8.155.43.98:35455/yy/1354930964
 河山,http://8.155.43.98:35455/yy/1382749952
 抗日神片，燃爆抗战热血魂,http://8.155.43.98:35455/yy/1354926600
 电影百团大战,http://8.155.43.98:35455/yy/1382736871
 内在美-伊人有约,http://8.155.43.98:35455/yy/1382737892
 我的父亲我的兵,http://8.155.43.98:35455/yy/1353413714
-热血抗日电影,http://8.155.43.98:35455/yy/1382749907
+经典港片,http://8.155.43.98:35455/yy/1382749907
 老三国,http://8.155.43.98:35455/huya/11602081
 寻秦记,http://8.155.43.98:35455/yy/1382749900
 庆余年,http://8.155.43.98:35455/douyu/7812810
@@ -1227,9 +1209,9 @@ CHC动作电影,http://113.221.59.169:4000/udp/239.76.252.243:9000
 CHC动作电影,http://113.221.59.169:4000/udp/239.76.245.243:1234
 CHC家庭影院,http://113.221.59.169:4000/udp/239.76.245.241:1234
 CHC影迷电影,http://113.221.59.169:4000/udp/239.76.245.242:1234
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 MCE,http://iptv.4666888.xyz/iptv2A.php?id=40
 中国电影,http://iptv.4666888.xyz/iptv2A.php?id=18
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=55
@@ -1243,11 +1225,6 @@ MCE,http://iptv.4666888.xyz/iptv2A.php?id=40
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
-爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
-爆谷台,http://173.208.234.146/live/nowbg.m3u8
-星影台,http://173.208.234.146/live/nowxy.m3u8
 DJ舞曲,#genre#
 开场低音串烧,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c02519bc71ce4f037001992e93a479_258.mp4
 经典Dj嗨歌01,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c0531dbca1064f037001992f48d0cd_258.mp4
@@ -1456,7 +1433,6 @@ hls/5199968880421566949_hlsb.m3u8
 音乐5,http://8.155.43.98:35455/douyu/17732
 音乐6,http://8.155.43.98:35455/douyu/8189873
 音乐7,http://8.155.43.98:35455/douyu/40471
-🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
 🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
