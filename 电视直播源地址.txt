@@ -653,7 +653,8 @@ CCTV-央视文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=A9D
 延边卫视,http://183.215.116.134:6610/180000001001/32023031709181220216556910725802/main.m3u8?IASHttpSessionId=OTT
 康巴卫视,http://39.134.13.34:6610/000000001000/1000000005000266002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266002
 港台4G,#genre#
-寰宇新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+寰宇新闻,http://31.43.191.125:8080/restream/restream/34870
+全球新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
@@ -668,7 +669,6 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 中天新聞,http://111.0.115.129:8081/live/000ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
 公視,http://211.72.174.95:8116/0.ts
@@ -695,7 +695,12 @@ Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
-TVB 星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB星河,http://cc.123.rr.kg/163189/tvbxh
+无线新闻,http://cc.123.rr.kg/163189/wxxwt
+无线新闻,http://cc.123.rr.kg/163189/wxxw
+无线新闻,rtmp://school.3class.cc/live/yifaTV-125
+TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 华丽翡翠台(新加坡),https://cdn3.indevs.in/stream/live/jade/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
@@ -708,9 +713,15 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港,http://173.208.234.146/live/fhhk.m3u8
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw
 凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
+凤凰中文,http://cc.123.rr.kg/163189/fhzw
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx
+凤凰香港,http://cc.123.rr.kg/163189/fhhk
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
@@ -728,9 +739,11 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 HOY 76,http://iptv.4666888.xyz/iptv2A.php?id=51
 HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 78,https://fast.hidns.vip/163189/hoy78
+HOY 78,https://fast.hidns.vip/163189/hoy78
 HOY 78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+NOW新闻台,https://fast.hidns.vip/163189/now
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
 TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
@@ -775,6 +788,10 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 广东民生,http://198.204.228.26/live/gdgg.m3u8
 广东民生,http://183.236.43.98:4111/udp/239.77.0.225:5146
 广东民生,http://183.236.43.98:4014/udp/239.77.0.225:5146
+广东民生720,http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信
+广东珠江,http://107.150.60.122/live/gdzja.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东民生,http://107.150.60.122/live/gdgg.m3u8
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东综合,https://168.sryze.cc/163189/gzzh
 广东新闻,https://168.sryze.cc/163189/gzxw
@@ -1201,23 +1218,15 @@ si神来了系列,http://8.155.43.98:35455/huya/11352903
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$4M
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CHC家庭影院,http://113.221.59.169:4000/udp/239.76.252.241:9000
-CHC影迷电影,http://113.221.59.169:4000/udp/239.76.252.242:9000
-CHC动作电影,http://113.221.59.169:4000/udp/239.76.252.243:9000
-CHC动作电影,http://113.221.59.169:4000/udp/239.76.245.243:1234
-CHC家庭影院,http://113.221.59.169:4000/udp/239.76.245.241:1234
-CHC影迷电影,http://113.221.59.169:4000/udp/239.76.245.242:1234
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 MCE,http://iptv.4666888.xyz/iptv2A.php?id=40
 中国电影,http://iptv.4666888.xyz/iptv2A.php?id=18
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=55
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=53
 中国电影,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283862
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+龙祥时代,http://31.43.191.125:8080/restream/restream/34825
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
