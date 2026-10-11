@@ -784,7 +784,8 @@ GOOD好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/live
 广东珠江,http://192.151.150.154/live/gdzj.m3u8
 广东珠江,http://107.150.60.122/live/gdzj.m3u8
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
-广东珠江,https://2.fast.hidns.vip/163189/gdzj广东影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261011060309da47f4228ff24823968c800d74cba3ac&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261011060309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261011060309&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d13a057a9734ac0e2c937f91f8cbc9c9
+广东珠江,https://2.fast.hidns.vip/163189/gdzj
+广东影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261011060309da47f4228ff24823968c800d74cba3ac&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261011060309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261011060309&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d13a057a9734ac0e2c937f91f8cbc9c9
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东民生,http://107.150.60.122/live/gdgg.m3u8
 广东民生,http://192.151.150.154/live/gdgg.m3u8
