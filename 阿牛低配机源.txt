@@ -1,0 +1,33 @@
+﻿{
+  "urls": [
+    {
+     "name": "肥猫","url":"http://肥猫.net/tv"
+    },
+    {
+      "name": "🚀盒子迷",
+      "url": "https://盒子迷.top/禁止贩卖"
+    },
+    {
+      "url": "http://mdxgh.top:9999/mdxkj.json",
+      "name": "🚀码点影线"
+    },
+    {
+   "name": "非凡",
+   "url": 
+"https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json"
+    },
+    {
+      "name": "🚀小马线路",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+    "name": "豆瓣",
+     "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+     "name": "小米","url":"https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
+    }
+  ]
+}
+
+
