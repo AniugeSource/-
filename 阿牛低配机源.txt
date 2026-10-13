@@ -22,6 +22,14 @@
     },
     {
      "name": "小米","url":"https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
+    },
+    {
+     "name": "🍃南风接口 ┃ 测试",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
+    },
+    {
+       "name": "📛挺好线路 ┃测试",
+        "url": "https://ztha.top/TVBox/thdjk.json"
     }
   ]
 }
