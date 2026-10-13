@@ -34,9 +34,6 @@
      "name": "饭太硬2(低配机勿点)","url":"http://www.饭太硬.net/tv"
     },
     {
-    "name": "饭太硬3(低配机勿点)","url":"http://fty.xxooo.cf/tv"
-    }, 
-    {
     "name": "宝盒(低配机勿点)","url":"http://宝盒接口.top"
     },   
     {
