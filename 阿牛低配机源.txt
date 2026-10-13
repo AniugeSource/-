@@ -8,10 +8,6 @@
       "url": "https://盒子迷.top/禁止贩卖"
     },
     {
-      "url": "http://mdxgh.top:9999/mdxkj.json",
-      "name": "🚀码点影线"
-    },
-    {
    "name": "非凡",
    "url": 
 "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json"
