@@ -812,6 +812,10 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 中天新聞,http://111.0.115.129:8081/live/000ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+中视经典,http://167.88.62.43:64008/0.ts
+中视箐采,http://167.88.62.43:64009/0.ts
+美食星球,http://167.88.62.43:64017/0.ts
+非凡新闻,http://167.88.62.43:64018/0.ts
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
 公視,http://211.72.174.95:8116/0.ts
@@ -825,8 +829,10 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+CNA,http://iptv.4666888.xyz/iptv2A.php?id=44
 全球新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -908,6 +914,7 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 公視,http://211.72.174.95:8116/0.ts
+八大空间,http://iptv.4666888.xyz/iptv2A.php?id=45
 靖天戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=38
 靖天欢乐台,http://iptv.4666888.xyz/iptv2A.php?id=37
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=19
@@ -920,6 +927,7 @@ TANG,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 海峡卫视,https://168.sryze.cc/163189/hxws
 生活英语台,http://iptv.4666888.xyz/iptv2A.php?id=58
 momo亲子台,http://iptv.4666888.xyz/iptv2A.php?id=39
+动画,http://iptv.4666888.xyz/iptv2A.php?id=41
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
