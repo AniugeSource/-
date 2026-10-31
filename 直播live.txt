@@ -806,12 +806,7 @@ disconery探索,https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-
 动物星球,https://play-drm.aliiptv.com/live/dwxq.m3u8?verify=1790056236-RsMsLXTXVKL1APEKLZOCzUAT8j4krAAF16eEtK7euLg
 BBC纪录,https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 港台粤澳财经,#genre#
-爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=52
-Astro AOD,https://cdn3.indevs.in/stream/live/aod/
-Astro AEC,https://cdn3.indevs.in/stream/live/aec/
-Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
-Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,http://cc.123.rr.kg/163189/tvbxh
@@ -827,7 +822,6 @@ TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
 翡翠台,http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-TVB Plus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
@@ -995,16 +989,21 @@ GINX Esports TV,http://iptv.4666888.xyz/iptv2A.php?id=50
 YY用户,http://footyun.top:35455/yy/1382736810
 国外院线动作大片,http://footyun.top:35455/yy/1382735570
 国产喜剧,http://footyun.top:35455/yy/1382735584
+笑到岔气,http://8.155.43.98:35455/huya/30080169
 举起手来-惊险抗日,http://footyun.top:35455/yy/1382736877
 动作大片,http://8.155.43.98:35455/yy/1354888739
 燃爆动作片,http://8.155.43.98:35455/yy/1382736801
 叶问全集,http://8.155.43.98:35455/yy/1382828771
-拳拳到肉，搏击燃情,http://footyun.top:35455/yy/1382736870
 影视小艺,http://footyun.top:35455/yy/1382737886
 国内功夫大片,http://8.155.43.98:35455/yy/1382736902
 拳拳到肉,http://8.155.43.98:35455/yy/1382736870
 超燃警匪片,http://8.155.43.98:35455/yy/1382735576
 香港院线大片,http://8.155.43.98:35455/yy/1354936242
+si神来了系列  好怕怕,http://8.155.43.98:35455/huya/11352903
+搞笑恐怖电影,http://8.155.43.98:35455/huya/11601960
+九龙城寨精武,http://8.155.43.98:35455/huya/10871113
+极速车王,http://8.155.43.98:35455/huya/11602051
+经典灾难大片,http://8.155.43.98:35455/huya/23728647
 末日系列,http://8.155.43.98:35455/yy/1354889019
 战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 太空荒野求生,http://8.155.43.98:35455/yy/1354930957
@@ -1059,6 +1058,16 @@ Blingbling,http://footyun.top:35455/yy/1382851598
 变形金刚,http://8.155.43.98:35455/yy/1382736803
 终结者,http://8.155.43.98:35455/yy/1382851148
 李连杰2,http://8.155.43.98:35455/yy/1382736873
+沈腾,http://8.155.43.98:35455/huya/11601968
+刘德华,http://8.155.43.98:35455/huya/11342424
+邱淑贞 王祖贤 张曼玉	,http://8.155.43.98:35455/huya/11336571
+古天乐,http://8.155.43.98:35455/huya/29982675
+杰森·斯坦森,http://8.155.43.98:35455/huya/21059588
+洪金宝,http://8.155.43.98:35455/huya/11279251
+梁家辉,http://8.155.43.98:35455/huya/11342429
+敢死队,http://8.155.43.98:35455/huya/23864973
+巨石强森系列,http://8.155.43.98:35455/huya/21059581
+甄子丹,http://8.155.43.98:35455/huya/11352935
 周星驰,http://222.186.39.38:8000/028749/index.m3u8
 致敬星爷致敬经典,http://footyun.top:35455/yy/1354889048
 杭小妞,http://footyun.top:35455/yy/1382851590
@@ -1517,6 +1526,20 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 美人热舞洗脑DJ舞曲HD,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
 2021五首女声伤感DJ情歌精品HD,https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
 韩国女团,#genre#
+音乐2,https://live.ottiptv.cc/douyu/20415?zbj
+音乐3,https://live.ottiptv.cc/douyu/11327316?zbj
+音乐4,https://live.ottiptv.cc/douyu/329667?zbj
+音乐5,https://live.ottiptv.cc/douyu/17732?zbj
+YY24小时好歌不间断,http://footyun.top:35455/yy/54880976#http://8.155.43.98:35455/yy/54880976
+YY燃舞女神热舞不断,http://footyun.top:35455/yy/22490906#http://8.155.43.98:35455/yy/22490906
+音乐6,https://live.ottiptv.cc/douyu/8189873?zbj
+音乐7,https://live.ottiptv.cc/douyu/40471?zbj
+🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
+🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
+🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
+🔄不吃香菜[刷新就是新内容],http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
+➡️抖舞陪看⬅️,https://live.ottiptv.cc/douyu/11531165?zbj
+☆车模颜值大赏,https://live.ottiptv.cc/douyu/10118209?zbj
 音乐2,http://8.155.43.98:35455/douyu/20415
 音乐3,http://8.155.43.98:35455/douyu/11327316
 音乐4,http://8.155.43.98:35455/douyu/329667
@@ -1524,10 +1547,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 音乐5,http://8.155.43.98:35455/douyu/17732
 音乐6,http://8.155.43.98:35455/douyu/8189873
 音乐7,http://8.155.43.98:35455/douyu/40471
-🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
-🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
-🔄4K视频[刷新就是新内容],http://xjj1.716888.xyz/fenlei/4k/4k.php
-🔄不吃香菜[刷新就是新内容],http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
 ➡️抖舞陪看⬅️,http://8.155.43.98:35455/douyu/11531165
 ☆车模颜值大赏,http://8.155.43.98:35455/douyu/10118209
 1韩国女团4K,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4
@@ -1750,6 +1769,42 @@ SING女团 风陵渡口,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 流行音乐,#genre#
+音乐1,https://live.ottiptv.cc/douyu/85894?zbj
+音乐4,https://live.ottiptv.cc/douyu/8257039?zbj
+音悦喵,https://live.ottiptv.cc/douyu/3870925?zbj
+音乐台长,https://live.ottiptv.cc/douyu/9629943?zbj
+十七岁的道姑,https://live.ottiptv.cc/douyu/3186217?zbj
+周杰伦,https://live.ottiptv.cc/douyu/122402?zbj
+音乐快斗,https://live.ottiptv.cc/douyu/8324627?zbj
+音乐Wu哥,https://live.ottiptv.cc/douyu/8667755?zbj
+周杰伦,https://live.ottiptv.cc/douyu/7537296?zbj
+果冻lui,https://live.ottiptv.cc/douyu/9191790?zbj
+MJ小林大人嗷,https://live.ottiptv.cc/douyu/9204381?zbj
+木JJ,https://live.ottiptv.cc/douyu/9575463?zbj
+渚岸汐潮233,https://live.ottiptv.cc/douyu/9518082?zbj
+羽翼天使的挽歌,https://live.ottiptv.cc/douyu/9193179?zbj
+粽子酱v,https://live.ottiptv.cc/douyu/9390685?zbj
+KBShinya,https://live.ottiptv.cc/douyu/8970851?zbj
+King大葱,https://live.ottiptv.cc/douyu/2255521?zbj
+柠柠柠萌菌,https://live.ottiptv.cc/douyu/9720895?zbj
+Devil青酱,https://live.ottiptv.cc/douyu/9510544?zbj
+柳青瑶本尊,https://live.ottiptv.cc/douyu/2281324?zbj
+双笙陈元汐,https://live.ottiptv.cc/douyu/6476693?zbj
+顾止最爱的小胖宝贝,https://live.ottiptv.cc/douyu/238643?zbj
+KyoKyo不是QQ,https://live.ottiptv.cc/douyu/4732337?zbj
+LOUIS樱,https://live.ottiptv.cc/douyu/9235284?zbj
+Starshine刹那,https://live.ottiptv.cc/douyu/9191006?zbj
+敢来碰我,https://live.ottiptv.cc/douyu/10308225?zbj
+李李李蚊香,https://live.ottiptv.cc/douyu/4786399?zbj
+超wu的大白兔,https://live.ottiptv.cc/douyu/2925299?zbj
+蓝光乐队,https://live.ottiptv.cc/douyu/9572351?zbj
+小铁房乐队,https://live.ottiptv.cc/douyu/9624976?zbj
+小鸭子老师,https://live.ottiptv.cc/douyu/9627625?zbj
+小姐姐Bie跑哦,https://live.ottiptv.cc/douyu/8666258?zbj
+扒圈圈V,https://live.ottiptv.cc/douyu/9649913?zbj
+睡丝虫,https://live.ottiptv.cc/douyu/10308234?zbj
+桀骜不驯认识,https://live.ottiptv.cc/douyu/2041014?zbj
+音乐12,https://live.ottiptv.cc/douyu/8970851?zbj
 音乐1,http://8.155.43.98:35455/douyu/85894
 音乐4,http://8.155.43.98:35455/douyu/8257039
 音悦喵,http://8.155.43.98:35455/douyu/3870925
