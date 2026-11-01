@@ -806,6 +806,7 @@ disconery探索,https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-
 动物星球,https://play-drm.aliiptv.com/live/dwxq.m3u8?verify=1790056236-RsMsLXTXVKL1APEKLZOCzUAT8j4krAAF16eEtK7euLg
 BBC纪录,https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 港台粤澳财经,#genre#
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=52
 TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
@@ -852,6 +853,8 @@ MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB金曲,http://iptv.4666888.xyz/iptv2A.php?id=17
 TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
+中视精彩,http://iptv.4666888.xyz/iptv2A.php?id=13
+靖天中文台,http://iptv.4666888.xyz/iptv2A.php?id=15
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
@@ -883,6 +886,11 @@ festival,http://iptv.4666888.xyz/iptv2A.php?id=37
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=19
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 重温经典,https://168.sryze.cc/163189/cwjd
+SCI,http://iptv.4666888.xyz/iptv2A.php?id=16
+爱尔达体育,http://iptv.4666888.xyz/iptv2A.php?id=9
+爱尔达体育2,http://iptv.4666888.xyz/iptv2A.php?id=12
+sport,http://iptv.4666888.xyz/iptv2A.php?id=4
+Carton,http://iptv.4666888.xyz/iptv2A.php?id=14
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 互动英语,http://iptv.4666888.xyz/iptv2A.php?id=10
 生活英语台,http://iptv.4666888.xyz/iptv2A.php?id=58
