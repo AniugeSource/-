@@ -807,6 +807,9 @@ disconery探索,https://p-drm.aliiptv.com/live/Discovery.m3u8?verify=1790056187-
 BBC纪录,https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 港台粤澳财经,#genre#
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=52
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
