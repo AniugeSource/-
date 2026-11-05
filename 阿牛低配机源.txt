@@ -3,8 +3,6 @@
    { "name": "心魔📚",
       "url":"https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
     },
-    {"name":"😹玄珠","url":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-    },
     {"name":"🍯HG","url":"https://api.hgyx.vip/hgyx.json"
     },
     {
@@ -16,7 +14,7 @@
       "name": "🚀小马线路",
       "url": "https://szyyds.cn/tv/x.json"
     },
-    { "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json", "name": "哔哩频道" 
+    { "url":"https://raw.giteeusercontent.com/huyuanhu33/aniu-ges-live-streaming-source/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.txt?signature=JjdGRtrk3I68Paapb9_5OOKTMYASVJoyi3oDmjPUv_J3cLFv6e6xqig3oCBgDpDMr2PwlYPal5wda1FNCeDz0M3JCVZE3E5yaaQSKbptdvgBNrsqchTUTd5ayJQaP48mnbgrC7SltaZDg36E1Cpm_B4AuxsmuLp3VlST2KuhunqVopTgcRNttFaFGKcF_FCDT4F1BMd93idLCW_9O-oMZbTAgpTBKyoA68Zx0IOKnh5IxiMNqbRAJyghbaMHysIF9rqiDnsQeaPniZf2FJdjlUd_HrANqGdlZkoCoycewc0%3D", "name": "哔哩频道" 
     },
     {"name": "牛虎豆瓣","url":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
     },
