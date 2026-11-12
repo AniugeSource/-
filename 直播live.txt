@@ -963,7 +963,7 @@ GINX Esports TV,http://iptv.4666888.xyz/iptv2A.php?id=50
 笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896?zbj
 笑傲江湖 第2季,https://live.ottiptv.cc/yy/1382736914?zbj
 金牌喜剧班,https://live.ottiptv.cc/yy/1354889009?zbj
-亚洲笑星征服美国,https://live.ottiptv.cc/yy/1382736920?zbj
+亚洲笑星征服,https://live.ottiptv.cc/yy/1382736920?zbj
 一起来笑吧,https://live.ottiptv.cc/yy/1454859415?zbj
 本山快乐营2,https://live.ottiptv.cc/yy/1382736718?zbj
 舌尖上的中国第1季,https://live.ottiptv.cc/yy/1354930952?zbj
@@ -1018,12 +1018,11 @@ si神来了系列  好怕怕,https://live.ottiptv.cc/huya/11352903?zbj
 经典灾难大片,https://live.ottiptv.cc/huya/23728647?zbj
 末日系列,https://live.ottiptv.cc/yy/1354889019?zbj
 战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
-太空荒野求生,https://live.ottiptv.cc/yy/1354930957?zbj
-科幻片：来看神奇的地球,https://live.ottiptv.cc/yy/1354930897?zbj
-经典鬼片3000部,https://live.ottiptv.cc/yy/29460894?zbj
+太空求生,https://live.ottiptv.cc/yy/1354930957?zbj
+神奇的地球,https://live.ottiptv.cc/yy/1354930897?zbj
+经典gui片,https://live.ottiptv.cc/yy/29460894?zbj
 恐怖电影,https://live.ottiptv.cc/yy/24066336?zbj
-大台风,https://live.ottiptv.cc/yy/1382735583?zbj
-晨晨的影视小窝,https://live.ottiptv.cc/yy/1382851576?zbj
+灾难片,https://live.ottiptv.cc/yy/1382735583?zbj
 国产大片电影,https://live.ottiptv.cc/yy/1354926655?zbj
 欢乐一起看,https://live.ottiptv.cc/yy/1354930926?zbj
 国内动作大片,https://live.ottiptv.cc/yy/1382745176?zbj
@@ -1043,7 +1042,7 @@ Blingbling,https://live.ottiptv.cc/yy/1382851598?zbj
 冰峰惊魂夜,https://live.ottiptv.cc/yy/1354936136?zbj
 国产动作电影,https://live.ottiptv.cc/yy/1382736858?zbj
 国内科幻片来袭,https://live.ottiptv.cc/yy/1354930821?zbj
-国外黑色喜剧,https://live.ottiptv.cc/yy/1382745175?zbj
+国外黑喜剧,https://live.ottiptv.cc/yy/1382745175?zbj
 每天都要快乐哦！,https://live.ottiptv.cc/yy/1354930909?zbj
 丹尼尔·斯洛斯烧脑谜题,https://live.ottiptv.cc/yy/1354936199?zbj
 国外动作,https://live.ottiptv.cc/yy/1382735570?zbj
@@ -1129,7 +1128,7 @@ YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144?zbj
 欢乐颂,https://live.ottiptv.cc/yy/1382735624?zbj
 开心小泡芙,https://live.ottiptv.cc/yy/1382851578?zbj
 天道-9.2高分好剧,https://live.ottiptv.cc/yy/1382735574?zbj
-新白娘子传奇-女神赵雅芝,https://live.ottiptv.cc/yy/1354930969?zbj
+新白娘子传奇-赵雅芝,https://live.ottiptv.cc/yy/1354930969?zbj
 三国演义,https://live.ottiptv.cc/yy/1354936241?zbj
 三国演义,https://live.ottiptv.cc/yy/1354930932?zbj
 俺娘田小草,https://live.ottiptv.cc/yy/1382741638?zbj
