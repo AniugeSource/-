@@ -980,43 +980,6 @@ GINX Esports TV,http://iptv.4666888.xyz/iptv2A.php?id=50
 动作电影,https://live.ottiptv.cc/yy/1382736823?zbj
 科幻,http://222.186.39.38:8000/882696/index.m3u8
 重生之超级赛亚人,爆笑小品大合集,https://live.ottiptv.cc/yy/1382736821?zbj
-爆笑小品大合集,http://8.155.43.98:35455/yy/1382736821
-爆笑小品大合集,http://footyun.top:35455/yy/1382736821
-笑傲帮,https://live.ottiptv.cc/yy/1382735555?zbj
-贾玲春晚小品,https://live.ottiptv.cc/yy/1382736720?zbj
-蔡明春晚小品,https://live.ottiptv.cc/yy/1354936177?zbj
-欢乐集结号,https://live.ottiptv.cc/yy/1354931582?zbj
-欢乐集结号-每天笑不停,https://live.ottiptv.cc/yy/1382741642?zbj
-欢乐集结号2,https://live.ottiptv.cc/yy/1354930919?zbj
-欢乐集结号4,https://live.ottiptv.cc/yy/1382736889?zbj
-欢乐集结号,https://live.ottiptv.cc/yy/1382735550?zbj
-欢乐集结号3,https://live.ottiptv.cc/yy/1382736822?zbj
-欢乐集结号58-70,https://live.ottiptv.cc/yy/1382745119?zbj
-巩汉林春晚小品合集,https://live.ottiptv.cc/yy/1354889035?zbj
-本山快乐营-爆笑小品,https://live.ottiptv.cc/yy/1354930948?zbj
-赵本山宋小宝小品大全,https://live.ottiptv.cc/yy/1382745331?zbj
-笑傲江湖 第2季,https://live.ottiptv.cc/yy/1382736914?zbj
-笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896?zbj
-笑傲江湖 第1季,https://live.ottiptv.cc/yy/1382749896?zbj
-笑傲江湖 第2季,https://live.ottiptv.cc/yy/1382736914?zbj
-金牌喜剧班,https://live.ottiptv.cc/yy/1354889009?zbj
-亚洲笑星征服美国,https://live.ottiptv.cc/yy/1382736920?zbj
-一起来笑吧,https://live.ottiptv.cc/yy/1454859415?zbj
-本山快乐营2,https://live.ottiptv.cc/yy/1382736718?zbj
-舌尖上的中国第1季,https://live.ottiptv.cc/yy/1354930952?zbj
-舌尖上的中国第2季,https://live.ottiptv.cc/yy/1354930943?zbj
-老广的味道 第3季,https://live.ottiptv.cc/yy/1382735565?zbj
-老广的味道-美食之旅,https://live.ottiptv.cc/yy/1354932375?zbj
-一分钟学道菜,https://live.ottiptv.cc/yy/1382736901?zbj
-单挑荒野第一季,https://live.ottiptv.cc/yy/1354933535?zbj
-百家讲坛-红楼梦篇,https://live.ottiptv.cc/yy/1382741639?zbj
-百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/1354936149?zbj
-易中天品三国,https://live.ottiptv.cc/yy/1354931498?zbj
-熊出没之探险日记S1-国漫,https://live.ottiptv.cc/yy/1354930977?zbj
-熊出没之探险日记-森林探险记,https://live.ottiptv.cc/yy/1382745122?zbj
-动作电影,https://live.ottiptv.cc/yy/1382736823?zbj
-科幻,http://222.186.39.38:8000/882696/index.m3u8
-重生之超级赛亚人,https://live.ottiptv.cc/yy/1354936124?zbj
 复仇,http://222.186.39.38:8000/435615/index.m3u8
 铁血拍档：并肩破局的燃魂对决,https://live.ottiptv.cc/yy/1382736884?zbj
 超级英雄,http://222.186.39.38:8000/091331/index.m3u8
@@ -1030,7 +993,7 @@ GINX Esports TV,http://iptv.4666888.xyz/iptv2A.php?id=50
 科幻电影,https://live.ottiptv.cc/yy/1354930209?zbj
 国外动作大片,https://live.ottiptv.cc/yy/1382735540?zbj
 嘻嘻熙熙,https://live.ottiptv.cc/yy/1382735585?zbj
-爆笑电影！王牌大贱谍2-3,https://live.ottiptv.cc/yy/1382735556?zbj
+爆笑电影！王牌大jiandie2-3,https://live.ottiptv.cc/yy/1382735556?zbj
 欢喜冤家的爱情-夏日乐悠悠,https://live.ottiptv.cc/yy/1354936191?zbj
 热门喜剧,https://live.ottiptv.cc/yy/1354931495?zbj
 憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239?zbj
