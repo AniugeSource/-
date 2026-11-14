@@ -862,14 +862,6 @@ TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
 中视精彩,http://iptv.4666888.xyz/iptv2A.php?id=13
 靖天中文台,http://iptv.4666888.xyz/iptv2A.php?id=15
-TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
-TVB1,http://cc.123.rr.kg/163189/tvb1
-无线新闻,http://cc.123.rr.kg/163189/wxxw
-TVB Plus,http://cc.123.rr.kg/163189/tvbp
-TVB星河,http://cc.123.rr.kg/163189/tvbxh
-TVBDRAMA,http://cc.123.rr.kg/163189/tvbd
-翡翠台,http://cc.123.rr.kg/163189/fct
-明珠台,http://cc.123.rr.kg/163189/mzt
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
@@ -1114,6 +1106,8 @@ YY果国际电影频道,https://live.ottiptv.cc/yy/1382627144?zbj
 大进军全集：红色系列电影,https://live.ottiptv.cc/yy/1382745083?zbj
 明天和你,https://live.ottiptv.cc/yy/1382749905?zbj
 兵王绝境狙杀,https://live.ottiptv.cc/yy/1382736833?zbj
+文松喜剧,https://live.ottiptv.cc/yy/1459010966?zbj
+雪豹,http://live.metshop.top/huya/29580970#https://live.ottiptv.cc/yy/1450496699?zbj
 经典抗战剧,https://live.ottiptv.cc/yy/1354555195?zbj
 学生兵,https://live.ottiptv.cc/yy/1354658003?zbj
 二炮手,https://live.ottiptv.cc/yy/1354930964?zbj
