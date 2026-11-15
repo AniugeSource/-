@@ -16,7 +16,7 @@
       "name": "🐵半糖仙人",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ph7368/ok/main/极客小盒.json"
     },
-   {"name":"超玩家影视仓库","url":"https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj"
+   {"name":"超玩家海马短剧","url":"https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj"
    },
    {
       "url": "https://xn--6orr3pi6g9uu.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/bhvip.json",
