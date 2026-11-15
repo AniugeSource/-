@@ -1,5 +1,17 @@
 ﻿{
   "urls": [
+     {
+            "name": "🐼肥猫线路 ┃ 备用镜像 [939ms]",
+            "url": "https://w.junce.dpdns.org/fm.gif"
+     },
+     {
+            "name": "🍚饭太硬线 ┃ 备用镜像 [546ms]",
+            "url": "http://www.xn--sss604efuw.net/tv"
+    },
+    {
+            "name": "🍚饭太硬线 ┃ 旗舰片单 [910ms]",
+            "url": "http://www.xn--sss604efuw.cc/tv"
+    },
     {
       "name": "🐵半糖仙人",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ph7368/ok/main/极客小盒.json"
