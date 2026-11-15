@@ -22,6 +22,131 @@
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/saoer2022/lib/哔哩合集.json"
         },
         {
+            "key": "海马短剧",
+            "name": "海马｜短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/河马短剧.js"
+        },
+        {
+            "key": "SVIP短剧",
+            "name": "SVIP｜短剧",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/星芽短剧.js"
+        },
+        {
+            "key": "星芽短剧",
+            "name": "星芽｜短剧",
+            "type": 3,
+            "api": "./py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "锦鲤短剧",
+            "name": "萌鱼｜短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "甜圈短剧",
+            "name": "甜圈｜短剧",
+            "type": 3,
+            "api": "./drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/甜圈短剧.js"
+        },
+        {
+            "key": "黑虎",
+            "name": "黑虎｜短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/黑虎短剧.json"
+        },
+        {
+            "key": "番茄",
+            "name": "番茄｜短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/番茄短剧.json"
+        },
+        {
+            "key": "擦边",
+            "name": "擦边｜短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/擦边短剧.json"
+        },
+        {
+            "key": "软软短剧",
+            "name": "软软｜短剧",
+            "type": 3,
+            "api": "./py/软鸭短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "蓝莓短剧",
+            "name": "蓝莓｜短剧",
+            "type": 3,
+            "api": "./py/蓝莓短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "爱看短剧",
+            "name": "爱看｜短剧",
+            "type": 3,
+            "api": "./py/爱看短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+			"key": "红果短剧",
+			"name": "红果｜短剧",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/红果短剧.js"
+		},
+        {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝",
             "type": 3,
