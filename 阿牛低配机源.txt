@@ -1,7 +1,20 @@
 ﻿{
   "urls": [
-   { "name": "心魔📚",
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    {
+      "name": "🐵半糖仙人",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ph7368/ok/main/极客小盒.json"
+    },
+   {"name":"超玩家影视仓库","url":"https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj"
+   },
+   {
+      "url": "https://xn--6orr3pi6g9uu.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/bhvip.json",
+      "name": "宝盒"
+    },
+    {
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+      "name": "二月红"
+    },
+   {  "name":"SVIP","url":"https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
     },
     {"name":"🍯HG","url":"https://api.hgyx.vip/hgyx.json"
     },
@@ -14,9 +27,9 @@
       "name": "🚀小马线路",
       "url": "https://szyyds.cn/tv/x.json"
     },
-    { "url":"https://raw.giteeusercontent.com/huyuanhu33/aniu-ges-live-streaming-source/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.txt?signature=JjdGRtrk3I68Paapb9_5OOKTMYASVJoyi3oDmjPUv_J3cLFv6e6xqig3oCBgDpDMr2PwlYPal5wda1FNCeDz0M3JCVZE3E5yaaQSKbptdvgBNrsqchTUTd5ayJQaP48mnbgrC7SltaZDg36E1Cpm_B4AuxsmuLp3VlST2KuhunqVopTgcRNttFaFGKcF_FCDT4F1BMd93idLCW_9O-oMZbTAgpTBKyoA68Zx0IOKnh5IxiMNqbRAJyghbaMHysIF9rqiDnsQeaPniZf2FJdjlUd_HrANqGdlZkoCoycewc0%3D", "name": "哔哩频道" 
+    { "url":"https://raw.giteeusercontent.com/huyuanhu33/aniu-ges-live-streaming-source/raw/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.txt?signature=csugzwaSLCtgo2JiJmAcOZ9tiKUKXTlymC2FdFC_Avdy8fz8k_mpEPHvR4G3LZmY6UJ0z8CwtH28P1udr3ft7Z-Dt8leGuOMEvuQo1hYrHL_Q2GoO6o9hqWT0SJz6RIw82g5iK0ZTQPHfQp8DcrTiR-_p_b36zKLd96rukAbq6yXkjdXb0ecVW7loKcGdPNaJJm4cIVEpc-z4B8u05-BKGUWVnl9Na9UwQ2kaT1LD3V8paTTZGoke-zGMhAjxzFOpshYFSOWXf7Mxgg1Dvczap8Xj7UKwvNa4D4tAsejXK69NtIHQBMiLj-IEBs4TbA%3D", "name": "哔哩频道" 
     },
-    {"name": "牛虎豆瓣","url":"https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
+    {"name": "启蒙少儿","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
     },
     {
       "name": "🚀盒子迷短剧搜索引擎",

@@ -11,6 +11,13 @@
             "searchable": 0
         },
         {
+            "key": "海马短剧",
+            "name": "海马｜短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/河马短剧.js"
+        },
+        {
             "key": "预告",
             "name": "新片｜预告",
             "type": 3,
@@ -652,13 +659,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-        },
-        {
-            "key": "海马短剧",
-            "name": "海马｜短剧",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/河马短剧.js"
         },
         {
             "key": "爱看短剧",
